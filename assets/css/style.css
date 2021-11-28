@@ -9,4 +9,14 @@
 body {
     font-family: 'open sans', sans-serif;
     font-weight: 250;
+    color: #333333;
+}
+
+/* Headings */
+
+h1, h2 {
+    font-family: 'source sans pro', sans-serif;
+    text-transform: uppercase;
+    color: #000033;
+
 }
