@@ -64,3 +64,31 @@ h1, h2 {
     border-bottom: 1px dotted grey;
 
   }
+
+/* Hero Image */
+
+/* #hero {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 100vh;
+    justify-content: center;
+    align-content: center;
+
+} */
+
+.hero-text {
+  
+ 
+
+  
+}
+
+.hero-image {
+
+    height:600px;
+    width: 100%;
+    background: url(../images/new\ build\ house\ 1\ 323780.jpg) no-repeat center center;
+    position:relative;
+    
+}
