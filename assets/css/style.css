@@ -24,5 +24,43 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 2.5rem;
+    text-shadow: 2px 2px 5px #808080;
 }
 
+/* menus nav stylying */
+
+#menu {
+
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+}
+
+#menu li {
+
+    float: right;
+    list-style-type: none;
+    margin-right: 1.7rem;
+    font-weight: bold;
+   
+    
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu a:hover {
+
+    color: lightskyblue;
+}
+.active {
+
+    border-bottom: 1px dotted grey;
+
+  }
