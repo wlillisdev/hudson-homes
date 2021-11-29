@@ -67,28 +67,25 @@ h1, h2 {
 
 /* Hero Image */
 
-/* #hero {
+.hero {
 
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    height: 100vh;
+    height:500px;
+    background-image: url(../images/color\ hero\ image\ of\ house.jpg);
+    width:100%;
+    position: relative;
+    align-items: center;
     justify-content: center;
-    align-content: center;
+    display: flex;
 
-} */
 
-.hero-text {
-  
- 
 
-  
+
 }
 
-.hero-image {
-
-    height:600px;
-    width: 100%;
-    background: url(../images/new\ build\ house\ 1\ 323780.jpg) no-repeat center center;
-    position:relative;
-    
+.hero-text {
+    color: white;
+    text-transform: capitalize;
+    margin:1rem;
+    text-align: center;
+    background-color: rgba(0,0,0,0.45)
 }
