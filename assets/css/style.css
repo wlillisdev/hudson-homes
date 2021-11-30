@@ -85,7 +85,36 @@ h1, h2 {
 .hero-text {
     color: white;
     text-transform: capitalize;
-    margin:1rem;
     text-align: center;
-    background-color: rgba(0,0,0,0.45)
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    line-height: 35px;
+    border-style: groove;
+    border-radius: 3px;
+    font-size: 1rem;
+    
+}
+
+.hero-title {
+
+    color: white;
+    letter-spacing: .15rem;
+}
+
+.hero-subtitle {
+
+    letter-spacing: .12rem;
+    font-weight: bold;
+}
+
+.hero-contact {
+    letter-spacing: .11rem;
+}
+
+.hero-button {
+
+  font-size: 1rem;
+  padding: 3px;
+  border-radius: 3px;
+    
 }
