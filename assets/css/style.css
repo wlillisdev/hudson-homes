@@ -125,6 +125,10 @@ h1, h2 {
     
 }
 
+.hero-button:hover {
+    background-color: green;
+}
+
 /* Services Section */
 .services-heading {
     text-align: center;
@@ -170,5 +174,9 @@ line-height: 30px;
     border-radius: 5px;
     text-transform: uppercase;
     padding: .3rem 2.3rem;
-        
+            
+}
+
+.services-button:hover {
+    background-color: green;
 }
