@@ -90,7 +90,7 @@ h1, h2 {
     padding: 10px;
     line-height: 35px;
     border-style: groove;
-    border-radius: 3px;
+    border-radius: 10px;
     font-size: 1rem;
     
 }
@@ -117,7 +117,7 @@ h1, h2 {
 
   font-size: 1rem;
   padding: 3px;
-  border-radius: 3px;
+  border-radius: 5px;
   text-transform: uppercase;
   padding: .3rem 2.5rem;
     
@@ -126,18 +126,16 @@ h1, h2 {
 /* Services Section */
 .services-heading {
     text-align: center;
-    padding-top: 5px;
-}
+    padding-top: 15px;
+    padding-bottom: 0;
+   }
 
 
 .wrapper {
 
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
-    grid-auto-rows: minmax(100px, auto);
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    grid-gap: 20px;
+    grid-gap: 30px;
     padding:20px;
     
 }
@@ -152,9 +150,23 @@ h1, h2 {
 
 .box-text {
 text-align: center;
-border-style: groove;
-border-radius: 3px;
-font-size: 1rem;    
+font-size: 1rem;
+margin:10px;   
+line-height: 30px;
 
+}
 
+.service-text {
+    
+
+}
+
+.services-button {
+
+    font-size: 1rem;
+    padding: 3px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    padding: .3rem 2.5rem;
+        
 }
