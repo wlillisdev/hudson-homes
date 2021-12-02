@@ -58,7 +58,7 @@ h1, h2 {
 
 #menu a:hover {
 
-    color: lightskyblue;
+    color: rgb(182, 182, 182);
 }
 .active {
 
@@ -126,10 +126,11 @@ h1, h2 {
 }
 
 .hero-button:hover {
-    background-color: green;
+    background-color: rgb(182, 182, 182);
 }
 
 /* Services Section */
+
 .services-heading {
     text-align: center;
     padding-top: 15px;
@@ -178,5 +179,65 @@ line-height: 30px;
 }
 
 .services-button:hover {
-    background-color: green;
+    background-color: rgb(182, 182, 182);
 }
+
+
+/* About Us Section */
+
+.services-heading {
+
+    text-align: center;
+}
+
+
+
+
+.wrapper-about{
+
+    
+    padding: 50px;
+    display:flex;
+
+        
+
+}
+
+.text-section {
+    flex:1;
+    align-content: center;
+    
+}
+
+.image-about {     
+    flex:1;
+    display:block;
+    flex-basis: 100%;
+    align-content: center;
+    padding-left: 50px;
+ }
+
+ @media only screen and (max-width: 640px) {
+
+    .wrapper-about {
+        display:block;
+    }
+
+    .image-about{
+
+        width:100%;
+        box-sizing: border-box;
+    }
+
+    .text-section {
+
+        width:100%;
+        box-sizing: border-box;
+    }
+
+
+ }
+     
+ 
+
+
