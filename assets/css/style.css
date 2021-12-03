@@ -129,7 +129,7 @@ h1, h2 {
     background-color: rgb(182, 182, 182);
 }
 
-/* Services Section */
+/* Services Section Homepage */
 
 .services-heading {
     text-align: center;
@@ -146,14 +146,7 @@ h1, h2 {
     padding:20px;
     
 }
-/* .container {
 
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    grid-gap: 20px;
-    padding:20px;
-       
-} */
 
 .box-text {
 text-align: center;
@@ -183,61 +176,20 @@ line-height: 30px;
 }
 
 
-/* About Us Section */
+/* About Us Home Page Section */
 
 .services-heading {
 
     text-align: center;
 }
 
+.text-about {
 
-
-
-.wrapper-about{
-
-    
-    padding: 50px;
-    display:flex;
-
-        
-
+   text-align: center;
+   border-style: groove;
+   border-radius: 10px;
+   font-size: 1rem;
+   line-height: 1.5rem;
+   padding: 10px
+   
 }
-
-.text-section {
-    flex:1;
-    align-content: center;
-    
-}
-
-.image-about {     
-    flex:1;
-    display:block;
-    flex-basis: 100%;
-    align-content: center;
-    padding-left: 50px;
- }
-
- @media only screen and (max-width: 640px) {
-
-    .wrapper-about {
-        display:block;
-    }
-
-    .image-about{
-
-        width:100%;
-        box-sizing: border-box;
-    }
-
-    .text-section {
-
-        width:100%;
-        box-sizing: border-box;
-    }
-
-
- }
-     
- 
-
-
