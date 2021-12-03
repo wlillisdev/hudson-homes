@@ -230,4 +230,13 @@ line-height: 30px;
 
     margin: 5px;
 }
-    
+  
+/* Footer */
+
+.footer-wrapper {
+
+    line-height: .25;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
