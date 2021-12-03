@@ -235,8 +235,17 @@ line-height: 30px;
 
 .footer-wrapper {
 
-    line-height: .25;
+    
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-evenly; 
+    padding: 5px;
+    
+    
+   
+}
+
+.footer-text {
+    text-align: center;
+    margin-left: 10px;
 }
