@@ -191,12 +191,27 @@ line-height: 30px;
 
    text-align: center;
    font-size: 1rem;
-   line-height: 1.5rem;
+   line-height: 30px;
    padding: 10px;
    border-bottom: groove;
    
    
 }
 
+.fa-check-circle {
+    color: green;
+    
+}
 
+
+/* Our Crediantial Homepage Section */
+
+.img-wrapper{
+
+    line-height: .25;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 5px;
+}
     
