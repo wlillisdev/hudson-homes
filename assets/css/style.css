@@ -178,18 +178,25 @@ line-height: 30px;
 
 /* About Us Home Page Section */
 
+
+
+
 .services-heading {
 
     text-align: center;
+    border-top: groove;
 }
 
 .text-about {
 
    text-align: center;
-   border-style: groove;
-   border-radius: 10px;
    font-size: 1rem;
    line-height: 1.5rem;
-   padding: 10px
+   padding: 10px;
+   border-bottom: groove;
+   
    
 }
+
+
+    
