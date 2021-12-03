@@ -206,6 +206,13 @@ line-height: 30px;
 
 /* Our Crediantial Homepage Section */
 
+.cred-heading{
+
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+
 .img-wrapper{
 
     line-height: .25;
