@@ -14,6 +14,14 @@ body {
 
 /* Headings & Logo */
 
+site-header {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
 h1, h2 {
     font-family: 'source sans pro', sans-serif;
     text-transform: uppercase;
@@ -222,7 +230,6 @@ line-height: 30px;
     flex-wrap: wrap;
     justify-content: space-evenly;
     padding: 5px;
-    border-bottom: groove;
     padding-bottom: 20px;
     
 }
@@ -246,7 +253,6 @@ line-height: 30px;
     flex-wrap: wrap;
     justify-content: space-evenly; 
     padding: 5px;
-    color: inherit;
     padding-bottom: 10px;
                 
    
