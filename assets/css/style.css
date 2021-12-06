@@ -279,3 +279,41 @@ line-height: 30px;
 .fa-youtube  {
     color:white;
 }
+
+/* services page */
+
+/* turn key service*/
+
+.turn-key-hero {
+
+height:150px;
+background-image: url(../images/color\ hero\ image\ of\ house.jpg);
+width:100%;
+position: relative;
+align-items: center;
+justify-content: center;
+display: flex;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+
+.turn-key-banner-text {
+
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+    border-style: groove;
+    border-radius: 10px;
+    
+
+}
+
+.turn-key-text {
+
+    color:white;
+    font-size: 2rem;   
+    
+}
