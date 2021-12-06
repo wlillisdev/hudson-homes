@@ -307,6 +307,7 @@ background-repeat: no-repeat;
     padding: 15px;
     border-style: groove;
     border-radius: 10px;
+    position: absolute;
     
 
 }
@@ -316,4 +317,15 @@ background-repeat: no-repeat;
     color:white;
     font-size: 2rem;   
     
+}
+
+.design-build-content{
+
+    background-color: grey;
+    margin-top: 200px;
+    text-align: justify;
+    
+
+
+
 }
