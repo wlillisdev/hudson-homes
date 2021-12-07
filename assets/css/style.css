@@ -166,10 +166,7 @@ line-height: 30px;
 
 }
 
-.service-text {
-    
 
-}
 
 .services-button {
 
@@ -286,46 +283,53 @@ line-height: 30px;
 
 .turn-key-hero {
 
-height:150px;
-background-image: url(../images/color\ hero\ image\ of\ house.jpg);
-width:100%;
-position: relative;
-align-items: center;
-justify-content: center;
-display: flex;
-background-position: center;
-background-size: cover;
-background-repeat: no-repeat;
-
-
-}
-
-.turn-key-banner-text {
-
-    text-align: center;
-    background-color: rgba(0, 0, 0, 0.7);
-    padding: 15px;
-    border-style: groove;
-    border-radius: 10px;
-    position: absolute;
+    height:300px;
+    background-image: url(../images/color\ hero\ image\ of\ house.jpg);
+    width:100%;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     
-
-}
-
-.turn-key-text {
-
-    color:white;
-    font-size: 2rem;   
+    }
     
-}
-
-.design-build-content{
-
-    background-color: grey;
-    margin-top: 200px;
-    text-align: justify;
+    /* .turn-key-banner-text {
     
-
-
-
-}
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.7);
+        padding: 15px;
+        border-style: groove;
+        border-radius: 10px;
+        position: absolute;
+        ;
+        
+    
+    } */
+    
+    .turn-key-text {
+    
+        color:white;
+        font-size: 2rem;   
+        
+    }
+    
+    .design-build-content{
+    
+        background-color: grey;
+        text-align: center;
+        color: white;
+        font-size: 1rem;
+        padding-left: 25px;
+        padding-right: 25px;
+        border-radius: 10px;
+        border: groove;
+        margin-left: 25px;
+        margin-right: 25px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+    }    
