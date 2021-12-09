@@ -279,7 +279,7 @@ line-height: 30px;
 
 /* services page */
 
-/* turn key service section*/
+/* Design and Build Service Hero Image*/
 
 .design-build-hero {
 
@@ -297,20 +297,10 @@ line-height: 30px;
     
     }
     
-    /* .turn-key-banner-text {
+
+   /* Hero Text Box services */ 
     
-        text-align: center;
-        background-color: rgba(0, 0, 0, 0.7);
-        padding: 15px;
-        border-style: groove;
-        border-radius: 10px;
-        position: absolute;
-        ;
-        
-    
-    } */
-    
-    .turn-key-text {
+    .services-hero-text {
     
         color:white;
         font-size: 1.5rem;
@@ -321,8 +311,10 @@ line-height: 30px;
         position: absolute;   
         
     }
+
+    /* Text Content styling services section */
     
-    .design-build-content{
+    .services-content{
     
         display: flex;
         background-color: grey;
@@ -340,7 +332,7 @@ line-height: 30px;
         
     }    
 
-    /* new build service section */
+    /* new build service section hero image */
 
     .new-build-hero {
 
@@ -358,7 +350,7 @@ line-height: 30px;
         
         }
     
-    /* new renovation service section */
+    /*renovation service section hero image */
     .rennovation-hero {
 
         height:150px;
@@ -375,7 +367,7 @@ line-height: 30px;
         
         }
 
-    /* extennsions service section */
+    /* extensions service section hero image */
 
 
     .extensions-hero {
