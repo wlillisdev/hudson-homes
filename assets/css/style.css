@@ -281,10 +281,10 @@ line-height: 30px;
 
 /* turn key service section*/
 
-.turn-key-hero {
+.design-build-hero {
 
     height:150px;
-    background-image: url(../images/color\ hero\ image\ of\ house.jpg);
+    background-image: url(../images/design\ and\ build\ .jpg);
     width:100%;
     position: relative;
     align-items: center;
@@ -341,5 +341,56 @@ line-height: 30px;
     }    
 
     /* new build service section */
+
+    .new-build-hero {
+
+        height:150px;
+        background-image: url(../images/new\ builds.jpg);
+        width:100%;
+        position: relative;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+        }
     
-    
+    /* new renovation service section */
+    .rennovation-hero {
+
+        height:150px;
+        background-image: url(../images/rennovation.jpg);
+        width:100%;
+        position: relative;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+        }
+
+    /* extennsions service section */
+
+
+    .extensions-hero {
+
+        height:150px;
+        background-image: url(../images/extensions\ .jpg);
+        width:100%;
+        position: relative;
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+        }
+   
