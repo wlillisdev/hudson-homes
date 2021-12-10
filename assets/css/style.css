@@ -14,15 +14,41 @@ body {
 
 /* Headings & Logo */
 
-site-header {
+/* .site-header {
 
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
     margin-left: auto;
+     */
+}
+@media screen and (max-width:950px){
+
+    #menu {
+        clear: left;
+        float: left;
+        margin left:30px;
+        line-height: 20px;
+        margin-bottom: 20px;
+
+        
+        }
     
 }
+
+@media screen and (max-width:340px){
+
+    #logo {
+        margin left:30px;
+        line-height: 20px;
+        margin-bottom: -30px;
+        
+        
+        }
+    
+}
+
 
 h1, h2 {
     font-family: 'source sans pro', sans-serif;
@@ -35,14 +61,14 @@ h1, h2 {
     float: left;
     font-size: 2.5rem;
     text-shadow: 2px 2px 5px #808080;
-    margin-left: 2.5rem;
+    margin-left: 10px;
 }
 
 /* menus nav stylying */
 
 #menu {
 
-    font-size: 1.2rem;
+    font-size: 1rem;
     letter-spacing: 2px;
 }
 
@@ -50,7 +76,7 @@ h1, h2 {
 
     float: right;
     list-style-type: none;
-    margin-right: 2rem;
+    margin-right: 1rem;
     font-weight: bold;
    
     
