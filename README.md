@@ -17,9 +17,10 @@ The site will also educate customers about the new wide range of services,
 #### New Builds
 #### Rennovations
 #### Extensions
-Each service will be outlined in detail to educate and entice the ciustomer to act.
+Each service will be outlined in detail to educate and entice the customer to act.
+The theme throughout the website is that Hudson Homes can create and build your dream home.And who dosent want a dream home.
 And ultimately bring the customer to engage and contact Hudson Homes via the website for more information. 
-The site will be targeted toward first time home owners & Familys looking to expand and devlop an existing property.
+The site will be targeted toward first time home owners & Familys looking to expand and devlop an existing property. 
 
 
 You can see the live website [here](https://wlillisdev.github.io/hudson-homes/index.html)..
@@ -29,6 +30,21 @@ You can see the live website [here](https://wlillisdev.github.io/hudson-homes/in
 
 
 # Future Development
+- Burger Menu
+        - I will add a burger menu for navigation for smaller screen sizes at a later date. i belive this will make the header neater and more user friendly
+
+- Payment Portal
+        - Add a payment portal to the website to allow customers pay and make stage payments online. This will improve workflow of the project and cashflow for Hudson Homes.
+        
+
+- Portfolio 
+        - I would like to add a portfolio page outlining all past projects of note from Hudson Homes this will be  accompanied with a video and a Testimional from the client.
+
+- Client Login
+        - Have a login section on the site so the customer can look at changes to drawings, approve changes, make changes, get live updates on the project from the project manager and to upload tender documents.
+
+
+
 
 # Testing
 
