@@ -22,37 +22,42 @@ body {
     flex-wrap: wrap;
     margin-left: auto;
      */
-}
-@media screen and (max-width:600px){
+/* } */
+
+@media screen and (max-width:900px) {
 
     #menu {
         clear: left;
         float: left;
-        margin left:30px;
+        margin-left: 30px;
         line-height: 20px;
         margin-bottom: 10px;
-        
 
-        
-        }
-    
+
+
+
+    }
+
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:400px) {
 
     #logo {
-        
+
         margin-bottom: -30px;
-                
-        
-        
-                
-        }
-    
+
+
+
+
+    }
+
 }
 
 
-h1, h2 {
+
+
+h1,
+h2 {
     font-family: 'source sans pro', sans-serif;
     text-transform: uppercase;
     color: #000033;
@@ -80,8 +85,8 @@ h1, h2 {
     list-style-type: none;
     margin-right: 1rem;
     font-weight: bold;
-   
-    
+
+
 }
 
 #menu a {
@@ -90,7 +95,8 @@ h1, h2 {
 
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
 }
 
@@ -98,19 +104,20 @@ h1, h2 {
 
     color: rgb(182, 182, 182);
 }
+
 .active {
 
     border-bottom: 1px dotted grey;
 
-  }
+}
 
 /* Hero Image */
 
 .hero {
 
-    height:500px;
+    height: 500px;
     background-image: url(../images/color\ hero\ image\ of\ house.jpg);
-    width:100%;
+    width: 100%;
     position: relative;
     align-items: center;
     justify-content: center;
@@ -132,7 +139,7 @@ h1, h2 {
     border-style: groove;
     border-radius: 10px;
     font-size: 1rem;
-    
+
 }
 
 .hero-title {
@@ -145,7 +152,7 @@ h1, h2 {
 
     letter-spacing: .12rem;
     font-weight: bold;
-    
+
 }
 
 .hero-contact {
@@ -155,12 +162,12 @@ h1, h2 {
 
 .hero-button {
 
-  font-size: 1rem;
-  padding: 3px;
-  border-radius: 5px;
-  text-transform: uppercase;
-  padding: .3rem 2.5rem;
-    
+    font-size: 1rem;
+    padding: 3px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    padding: .3rem 2.5rem;
+
 }
 
 .hero-button:hover {
@@ -173,7 +180,7 @@ h1, h2 {
     text-align: center;
     padding-top: 15px;
     padding-bottom: 0;
-   }
+}
 
 
 .wrapper {
@@ -181,16 +188,16 @@ h1, h2 {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     grid-gap: 30px;
-    padding:20px;
-    
+    padding: 20px;
+
 }
 
 
 .box-text {
-text-align: center;
-font-size: 1rem;
-margin:10px;   
-line-height: 30px;
+    text-align: center;
+    font-size: 1rem;
+    margin: 10px;
+    line-height: 30px;
 
 }
 
@@ -203,7 +210,7 @@ line-height: 30px;
     border-radius: 5px;
     text-transform: uppercase;
     padding: .3rem 2.3rem;
-            
+
 }
 
 .services-button:hover {
@@ -224,33 +231,33 @@ line-height: 30px;
 
 .text-about {
 
-   text-align: center;
-   font-size: 1rem;
-   line-height: 30px;
-   padding: 10px;
-   border-bottom: groove;
-   padding-bottom: 20px;
-   
-   
+    text-align: center;
+    font-size: 1rem;
+    line-height: 30px;
+    padding: 10px;
+    border-bottom: groove;
+    padding-bottom: 20px;
+
+
 }
 
 .fa-check-circle {
     color: green;
-    
+
 }
 
 
 /* Our Crediantial Homepage Section */
 
-.cred-heading{
+.cred-heading {
 
     text-align: center;
     padding-top: 20px;
-    
 
-    }
 
-.img-wrapper{
+}
+
+.img-wrapper {
 
     line-height: .25;
     display: flex;
@@ -258,7 +265,7 @@ line-height: 30px;
     justify-content: space-evenly;
     padding: 5px;
     padding-bottom: 20px;
-    
+
 }
 
 
@@ -266,7 +273,7 @@ line-height: 30px;
 
     margin: 5px;
 }
-  
+
 /* Footer */
 
 #footer {
@@ -275,14 +282,14 @@ line-height: 30px;
 
 .footer-wrapper {
 
-    
+
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly; 
+    justify-content: space-evenly;
     padding: 5px;
     padding-bottom: 10px;
-                
-   
+
+
 }
 
 
@@ -294,15 +301,15 @@ line-height: 30px;
 }
 
 .fa-facebook-square {
-    color:white;
+    color: white;
 }
 
 .fa-instagram-square {
-    color:white;
+    color: white;
 }
 
-.fa-youtube  {
-    color:white;
+.fa-youtube {
+    color: white;
 }
 
 /* services page */
@@ -311,9 +318,9 @@ line-height: 30px;
 
 .design-build-hero {
 
-    height:150px;
+    height: 150px;
     background-image: url(../images/design\ and\ build\ .jpg);
-    width:100%;
+    width: 100%;
     position: relative;
     align-items: center;
     justify-content: center;
@@ -322,132 +329,130 @@ line-height: 30px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    
-    }
-    
 
-   /* Hero Text Box services */ 
-    
-    .services-hero-text {
-    
-        color:white;
-        font-size: 1.5rem;
-        background-color: rgba(0, 0, 0, 0.7);
-        padding: 10px;
-        border-style: groove;
-        border-radius: 10px;
-        position: absolute;
-        
-         
-        
-    }
+}
 
-    /* Text Content styling services section */
-    
-    .services-content{
-    
-        display: flex;
-        background-color: grey;
-        text-align: center;
-        color: white;
-        font-size: 1rem;
-        padding-left: 10px;
-        padding-right: 10px;
-        border-radius: 15px;
-        border: groove;
-        /* margin-left: 10px;
+
+/* Hero Text Box services */
+
+.services-hero-text {
+
+    color: white;
+    font-size: 1.5rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    border-style: groove;
+    border-radius: 10px;
+    position: absolute;
+
+
+
+}
+
+/* Text Content styling services section */
+
+.services-content {
+
+    display: flex;
+    background-color: grey;
+    text-align: center;
+    color: white;
+    font-size: 1rem;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    border: groove;
+    /* margin-left: 10px;
         margin-right: 10px; */
-        padding-top: 10px;
-        padding-bottom: 10px;
-        line-height: 1.5rem;
-        
-    }    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1.5rem;
 
-    /* new build service section hero image */
+}
 
-    .new-build-hero {
+/* new build service section hero image */
 
-        height:150px;
-        background-image: url(../images/new\ builds.jpg);
-        width:100%;
-        position: relative;
-        align-items: center;
-        justify-content: center;
-        display: flex;
-        flex-direction: column;
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        
-        }
-    
-    /*renovation service section hero image */
-    .rennovation-hero {
+.new-build-hero {
 
-        height:150px;
-        background-image: url(../images/rennovation.jpg);
-        width:100%;
-        position: relative;
-        align-items: center;
-        justify-content: center;
-        display: flex;
-        flex-direction: column;
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        
-        }
+    height: 150px;
+    background-image: url(../images/new\ builds.jpg);
+    width: 100%;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 
-    /* extensions service section hero image */
+}
+
+/*renovation service section hero image */
+.rennovation-hero {
+
+    height: 150px;
+    background-image: url(../images/rennovation.jpg);
+    width: 100%;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+/* extensions service section hero image */
 
 
-    .extensions-hero {
+.extensions-hero {
 
-        height:150px;
-        background-image: url(../images/extensions\ .jpg);
-        width:100%;
-        position: relative;
-        align-items: center;
-        justify-content: center;
-        display: flex;
-        flex-direction: column;
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        
-        }
-   
+    height: 150px;
+    background-image: url(../images/extensions\ .jpg);
+    width: 100%;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 
-    /* Contact Us Page */
+}
 
-    /* contact us hero image */
 
-    .contact-hero {
+/* Contact Us Page */
 
-        height:150px;
-        background-image: url(../images/contact\ us.jpg);
-        width:100%;
-        position: relative;
-        align-items: center;
-        justify-content: center;
-        display: flex;
-        flex-direction: column;
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        
-        }
+/* contact us hero image */
 
-        .contact-hero-text {
-    
-            color:white;
-            font-size: 1.5rem;
-            background-color: rgba(0, 0, 0, 0.7);
-            padding: 10px;
-            border-style: groove;
-            border-radius: 10px;
-            position: absolute;   
-            
-        }
-   
-        
+.contact-hero {
+
+    height: 150px;
+    background-image: url(../images/contact\ us.jpg);
+    width: 100%;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.contact-hero-text {
+
+    color: white;
+    font-size: 1.5rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    border-style: groove;
+    border-radius: 10px;
+    position: absolute;
+
+}
