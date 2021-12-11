@@ -10,7 +10,7 @@
     <meta name="keywords"
         content="house builder, new house design, house construction, house rennovation, house planning, house extension, ireland, cork ">
     <link rel="stylesheet" href="assets/css/style.css">
-    
+
     <title>Hudson Homes</title>
 
 </head>
@@ -53,11 +53,29 @@
                     You can choose a design from our brochure which can be altered or extended to suit your
                 </p>
             </div>
-
         </section>
 
-        <section>
+        <section class="form-section">
+            <form class="contact-us" method="POST" action="https://formdump.codeinstitute.net/">
+                <h2>Start Your Dream Home Today <i class="fas fa-home"></i> </h2>
+                <label for="fname">First Name</label>
+                <input id="fname" class="text-input" type="text" name="first_name"  required />
+                <label for="lname">Last Name</label>
+                <input id="lname" class="text-input" type="text" name="last_name" required />
+                <label for="email">Email Address</label>
+                <input id="email" class="text-input" type="email" name="email_address" required />
+                <label for="design-&-build">Design+Build</label>
+                <input id="design-&-build" type="radio" name="service_preference" value="design-&-build" required />
+                <label for="new-builds">New Builds</label>
+                <input id="new-build" type="radio" name="service_preference" value="new-build" />
+                
+                <label for="rennovations">Rennovations</label>
+                <input id="rennovations" type="radio" name="service_preference" value="rennovations" />
+                <label for="extensions">Extensions</label>
+                <input id="extensions" type="radio" name="service_preference" value="extensions" />
+                <input class="join-button" type="submit" value="Contact Us" />
 
+            </form>
         </section>
 
 
