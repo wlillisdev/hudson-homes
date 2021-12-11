@@ -33,9 +33,9 @@ You can see the live website [here](https://wlillisdev.github.io/hudson-homes/in
 
   - The Navagation bar is located at the top of all three Pages. It is simple but clean design. It includes the logo, Home page, Service and Contact Us page.
   - It will allow a visitor to quickly and easily get around the site as each link logically leads to the next.
-  - The nav elements also cahnge color when hovered over and also has an active line under each link when clicked which adds to the user experience.
+  - The nav elements also change color when hovered over and also has an active line under each link when clicked which adds to the user experience.
   
-  ![House Built By Hudson Homes](/workspace/hudson-homes/assets/images/header.png)
+  ![House Built By Hudson Homes](assets/images/header.jpg)
  
   
 
