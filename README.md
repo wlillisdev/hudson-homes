@@ -1,8 +1,61 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome wlillisdev,
 
-<h1>Test heading</h1>
+# Hudson Homes
+
+![House Built By Hudson Homes](assets/images/new-builds.jpg)
+
+This website is deigned for Hudson Homes who is a national construction company. They have been in business for over 30 years. Although they specilasise in all aspects of construction they wanted a new website to focus primarily on the house building market and all aspects of it as it is currently in high demand.
+
+
+## Aim of Website
+
+The goal of the website is to show case Hodson Homes reputation of excellence, craftmanship and expierence in the house building market.
+It will target a wider range of clients as previouly they only focoused on high end bespoke house builds. 
+The site will also educate customers about the new wide range of services,
+#### Design & Build
+#### New Builds
+#### Rennovations
+#### Extensions
+Each service will be outlined in detail to educate and entice the ciustomer to act.
+And ultimately bring the customer to engage and contact Hudson Homes via the website for more information. 
+The site will be targeted toward first time home owners & Familys looking to expand and devlop an existing property.
+
+
+You can see the live website [here](https://wlillisdev.github.io/hudson-homes/index.html)..
+
+
+# Features
+
+
+# Future Development
+
+# Testing
+
+## HTML Validator
+
+
+## CSS Validator
+
+
+## Lighthouse
+
+
+
+
+# Deployment
+
+
+# Credits
+
+
+
+
+
+
+
+
+
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
