@@ -24,7 +24,7 @@ body {
      */
 /* } */
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:400px) {
 
     #menu {
         clear: left;
@@ -32,10 +32,6 @@ body {
         margin-left: 30px;
         line-height: 20px;
         margin-bottom: 10px;
-
-
-
-
     }
 
 }
@@ -45,14 +41,9 @@ body {
     #logo {
 
         margin-bottom: -30px;
-
-
-
-
+        align-items: center;
     }
-
 }
-
 
 
 
