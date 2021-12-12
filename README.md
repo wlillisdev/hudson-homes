@@ -33,10 +33,35 @@ You can see the live website [here](https://wlillisdev.github.io/hudson-homes/in
 
   - The Navagation bar is located at the top of all three Pages. It is simple but clean design. It includes the logo, Home page, Service and Contact Us page.
   - It will allow a visitor to quickly and easily get around the site as each link logically leads to the next.
-  - The nav elements also change color when hovered over and also has an active line under each link when clicked which adds to the user experience.
+  - The nav elements also change color when hovered over and also has an active line under each link when clicked which adds to the user experience.  
+   
+![Navigation Bar](assets/images/header.jpg)
+
+- __Footer__
+
+  - The footer is simple and clean design it is the same on all pages of the website.
+  - It contains 3 social media platforms as requested by Hudson Homes.
+  - The main aim of the footer is to increase engagement with visitors and get them to view new projects that are currently building and showcase previous house builds.With the goal of building confidence with new customers & getting them to subscribe to the various channels. This is done with a simple text in the footer, Follow Our Recent Projects On.
+
+![Footer Bar](assets/images/header.jpg)
+
+- __Landing Page__
+
+  - The landing page contains an eye-catching background image of a beautiful modern built house by Hudson Homes. It immediately catches the eye and infers the aspiration of what a customer’s dream house could be if it was built by Hudson Homes.
+  - The text box further instils this with the words you Dream it we design and build it. The customer know instantly what Hudson Homes can do for them.
+  - It also has a call to action with a button encouraging customers to get a free quote.
+
+![Landing Page](assets/images/header.jpg)
+
+
+
+
   
-  ![House Built By Hudson Homes](assets/images/header.jpg)
+
+
+
  
+
   
 
 
