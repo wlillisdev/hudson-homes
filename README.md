@@ -22,10 +22,7 @@ The theme throughout the website is that Hudson Homes can create and build your 
 And ultimately bring the customer to engage and contact Hudson Homes via the website for more information. 
 The site will be targeted toward first time home owners & Familys looking to expand and devlop an existing property. 
 
-
-
 You can see the live website [here](https://wlillisdev.github.io/hudson-homes/index.html)..
-
 
 # Features
 
@@ -37,14 +34,6 @@ You can see the live website [here](https://wlillisdev.github.io/hudson-homes/in
    
 ![Navigation Bar](assets/images/header.jpg)
 
-- __Footer__
-
-  - The footer is simple and clean design it is the same on all pages of the website.
-  - It contains 3 social media platforms as requested by Hudson Homes.
-  - The main aim of the footer is to increase engagement with visitors and get them to view new projects that are currently building and showcase previous house builds.With the goal of building confidence with new customers & getting them to subscribe to the various channels. This is done with a simple text in the footer, Follow Our Recent Projects On.
-
-![Footer Bar](assets/images/header.jpg)
-
 - __Landing Page__
 
   - The landing page contains an eye-catching background image of a beautiful modern built house by Hudson Homes. It immediately catches the eye and infers the aspiration of what a customer’s dream house could be if it was built by Hudson Homes.
@@ -53,15 +42,51 @@ You can see the live website [here](https://wlillisdev.github.io/hudson-homes/in
 
 ![Landing Page](assets/images/header.jpg)
 
-
 - __What We Do Section__
 
   - What we do section allow the user to quickly evaluate if Hudson Homes has the services they require.
-  - It has a simple design with minimal text about it service, but enough text to allow the user evaluate each service. Each service also has a button to encourage the user to read more about the service.
+  - It has a simple design with minimal text about each service, but enough text to allow the user evaluate each service. Each service also has a button to encourage the user to read more about the service.
   - Each service has a nice icon that helps the user identify the specific service.
 
 ![What we do Section](assets/images/header.jpg)
 
+- __About Us Section__
+
+  - This is a quick and brief description about Hudson Homes. To allow the user to find out some background information about the company.
+  - It outlines the  main qualities of why Hudson Homes would be an excellent partner for a new user looking to build a new home.
+
+![About Us](assets/images/header.jpg)
+
+- __Our Crediantials Section__
+
+ - This is the next step on the users journey as they scroll down the homepage, The about us section highlights why you should choose Hudson Homes as a partner but this section reinforces this point with industry credentials.
+  - This section outlines the industry recognised organisation that Hudson Homes are registered members of.
+  - To a new user visiting the site and having little knowledge of the company this is a big thumbs up to show them that Hudson Homes is a reputable builder.
+
+![Our Crediantials](assets/images/header.jpg)
+
+- __Footer__
+
+  - The footer is simple and clean design it is the same on all pages of the website.
+  - It contains 3 social media platforms as requested by Hudson Homes they will also open in a new window to allow easy navigation for the user.
+  - The main aim of the footer is to increase engagement with visitors and get them to view new projects that are currently building and showcase previous house builds.With the goal of building confidence with new customers & getting them to subscribe to the various channels. This is done with a simple text in the footer, Follow Our Recent Projects On.
+
+![Footer Bar](assets/images/header.jpg)
+
+- __Hover__
+
+  - Each clickable element on the website cjanges color when hovered over with a mouse. This is to encourage users to click on buttons and links and increase engagement and user experience.
+
+
+
+
+
+
+
+
+
+
+ 
 
 
  
