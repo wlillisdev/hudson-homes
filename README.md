@@ -54,6 +54,18 @@ You can see the live website [here](https://wlillisdev.github.io/hudson-homes/in
 ![Landing Page](assets/images/header.jpg)
 
 
+- __What We Do Section__
+
+  - What we do section allow the user to quickly evaluate if Hudson Homes has the services they require.
+  - It has a simple design with minimal text about it service, but enough text to allow the user evaluate each service. Each service also has a button to encourage the user to read more about the service.
+  - Each service has a nice icon that helps the user identify the specific service.
+
+![What we do Section](assets/images/header.jpg)
+
+
+
+ 
+
 
 
   
