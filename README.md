@@ -87,20 +87,38 @@ The site will be targeted toward first time home owners & Family’s looking to 
 
 - __Contact Us Page__
   - The aim of the page is to convert a potential user into a lead. It has a simple but elegant contact us form layout. That captures enough information so Hudson Homes can follow up on the lead. And allows a user’s to quickly fill out the form with minimal information.
-  - It also has the aspirational theme of Build your dream incorporated into it. The header image has an elegant country home, the background image is a set of keys in a new door and form has a call to action of start your dream home today.
+  - It also has the aspirational theme of Build your dream incorporated into it. The header image has an elegant country home, the background image is a set of keys in a new door and the form has a call to action of "start your dream home today".
  
 ![Footer Bar](assets/images/header.jpg)
 
+# Design
+ - Theme
+   - The Theme of the website is build your dream home.As a first time buyer or an existing home owner your aspiration is to build and live in a dream home you created. 
+      - Fonts were imported from google fonts, Sans Pro and Open Sans were picked as they were crisp and elegant and complimented each other and the theme of the site.
+
+ - Color Palette
+   - The color palette is made up of three main colors which creates a good contrast and helps support the overall theme by creating a sleek lean and modern website.
+
+![Color Palette](assets/images/header.jpg)
+
+- Imagery
+   - The images that were selected for the website were eyecathing, elegant, modern design and expertly built houses. They look like show houses and help support the theme of a user owning and designing their own dream home.
+
+- Wireframes
+   - To create the initial layout and wireframe i used Balsamiq. This helped fine tune the design and layout. It also helped in calculating the amount of content and images required.
+
+
 # User Stories
 - First Time Visitors Aims:
-  - As a first time visitor, i want to quickly and easily understand what this website is about and what it can do for me.
-  - As a first time visotor, i want to quickly learn about the services on offer.
-  - As a first time visotor, i want to be able to quickly and easily contact the company for more inforamtion or to dicusss there services.
+  - As a first-time visitor, I want to quickly and easily understand what this website is about and what it can do for me.
+  - As a first-time visitor, I want to quickly learn about the services on offer.
+  - As a first-time visitor, I want to be able to quickly and easily contact the company for more information or to discuss their services.
 
-- Returning Visiotrs Aims:
-  - As a returning visitor, i would like to learn  more  about projects the company has built that may be similar to my project.
-  - As a returning visitor, i want to quickly learn about this company crediantials.
-  - As a returing visitor, i would like to find links to there socail media channels and follow them. 
+- Returning Visitors Aims:
+  - As a returning visitor, I would like to learn more about projects the company has built that may be similar to my project.
+  - As a returning visitor, I want to learn about this company credentials & experience.
+  - As a returning visitor, I would like to find links to their social media channels and follow them. 
+
 
 # Future Development
 - Burger Menu
@@ -121,19 +139,25 @@ The site will be targeted toward first time home owners & Family’s looking to 
 
 # Testing
 
-## HTML Validator
+- HTML Validator
 
 
-## CSS Validator
+- CSS Validator
 
 
-## Lighthouse
+- Lighthouse
 
 
 
 
 # Deployment
 
+The site was created using Visual Studio Code and GitHub, and deployed to GitHub pages for testing using the below process: 
+
+ - Clicked on my respository for wlillisdev/hudson-homes.
+ - Clicked settings tab and navigated down to "pages"
+ - Selected "Main" in branch drop down box.
+ - Clicked "save" which produced the live link which can be viewed [here](https://wlillisdev.github.io/hudson-homes/index.html).. 
 
 # Credits
 
