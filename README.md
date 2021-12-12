@@ -89,24 +89,32 @@ The site will be targeted toward first time home owners & Family’s looking to 
   - The aim of the page is to convert a potential user into a lead. It has a simple but elegant contact us form layout. That captures enough information so Hudson Homes can follow up on the lead. And allows a user’s to quickly fill out the form with minimal information.
   - It also has the aspirational theme of Build your dream incorporated into it. The header image has an elegant country home, the background image is a set of keys in a new door and form has a call to action of start your dream home today.
  
-
+![Footer Bar](assets/images/header.jpg)
 
 # User Stories
+- First Time Visitors Aims:
+  - As a first time visitor, i want to quickly and easily understand what this website is about and what it can do for me.
+  - As a first time visotor, i want to quickly learn about the services on offer.
+  - As a first time visotor, i want to be able to quickly and easily contact the company for more inforamtion or to dicusss there services.
 
+- Returning Visiotrs Aims:
+  - As a returning visitor, i would like to learn  more  about projects the company has built that may be similar to my project.
+  - As a returning visitor, i want to quickly learn about this company crediantials.
+  - As a returing visitor, i would like to find links to there socail media channels and follow them. 
 
 # Future Development
 - Burger Menu
-        - I will add a burger menu for navigation for smaller screen sizes at a later date. i belive this will make the header neater and more user friendly
+  - I will add a burger menu for navigation for smaller screen sizes at a later date. i belive this will make the header neater and more user friendly
 
 - Payment Portal
-        - Add a payment portal to the website to allow customers pay and make stage payments online. This will improve workflow of the project and cashflow for Hudson Homes.
+  - Add a payment portal to the website to allow customers pay and make stage payments online. This will improve workflow of the project and cashflow for Hudson Homes.
         
 
 - Portfolio 
-        - I would like to add a portfolio page outlining all past projects of note from Hudson Homes this will be  accompanied with a video and a Testimional from the client.
+  - I would like to add a portfolio page outlining all past projects of note from Hudson Homes this will be  accompanied with a video and a Testimional from the client.
 
 - Client Login
-        - Have a login section on the site so the customer can look at changes to drawings, approve changes, make changes, get live updates on the project from the project manager and to upload tender documents.
+  - Have a login section on the site so the customer can look at changes to drawings, approve changes, make changes, get live updates on the project from the project manager and to upload tender documents.
 
 
 
