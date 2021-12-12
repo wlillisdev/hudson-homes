@@ -94,7 +94,7 @@ The site will be targeted toward first time home owners & Family’s looking to 
 # Design
  - Theme
    - The Theme of the website is build your dream home.As a first time buyer or an existing home owner your aspiration is to build and live in a dream home you created. 
-      - Fonts were imported from google fonts, Sans Pro and Open Sans were picked as they were crisp and elegant and complimented each other and the theme of the site.
+   - Fonts were imported from google fonts, Sans Pro and Open Sans were picked as they were crisp and elegant and complimented each other and the theme of the site.
 
  - Color Palette
    - The color palette is made up of three main colors which creates a good contrast and helps support the overall theme by creating a sleek lean and modern website.
