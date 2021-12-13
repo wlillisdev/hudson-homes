@@ -143,23 +143,23 @@ The site will be targeted toward first time home owners & Family’s looking to 
 
 # Testing
 
-Validator Testing 
+### Validator Testing 
 
  - HTML Validator
    - [W3C](https://validator.w3.org/) site was used to validate the **HTML** code.
    - A number of small errors were initially flagged up. Some duplicate tags were removed and I also had to rename a number of images. I also misplaced a link tag in the homepage, as I copied this page structure for the rest of the site i had to fix it on all of these pages also
 
-  [hompage errors](assets/images/error fix homepage.png)
-  [Code Institute](/workspace/hudson-homes/assets/images/error_homepge.png)
+   ### All Pages are now error free see links below:
+   - [Homepage](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwlillisdev.github.io%2Fhudson-homes%2Findex.html)
+   - [Services Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwlillisdev.github.io%2Fhudson-homes%2Fservices.html)
+   - [Contact Us Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwlillisdev.github.io%2Fhudson-homes%2Fcontact-us.html)
 
+  - CSS Validator
+    - The [W3C](https://validator.w3.org/) was used to validate the **CSS** code
+    - The website passed with no errors
 
-   
-
-
-
-
- - CSS Validator
-
+   ### See links below for Results:
+    - [css](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwlillisdev.github.io%2Fhudson-homes%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
  - Lighthouse
 
