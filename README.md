@@ -155,7 +155,7 @@ Validator Testing
 
 
 - Manual Testing
-  - The site was carefully tested across a variety of devices to ensure that all links and styling function properly, as well as responsiveness. All of the page's features were tested. Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, and Opera were all used to test the website. The site was carefully tested across a variety of devices to ensure that all links and styling function properly, as well as responsiveness. All of the page's features were tested.Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, and Opera were all used to test the website.
+  - The site was carefully tested across a variety of devices to ensure that all links and styling function properly, as well as responsiveness. All of the page's features were tested on Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, and Opera . The site was carefully tested across a variety of devices to ensure that all links and styling function properly, as well as responsiveness.
 
   - Google Chrome's Developer Tool was used to inspect page elements during the build and helped indentify and debug issues within the HTML and CSS.
 
@@ -171,10 +171,12 @@ Validator Testing
 
 The site was created using Visual Studio Code and GitHub, and deployed to GitHub pages for testing using the below process: 
 
- - Clicked on my respository for wlillisdev/hudson-homes.
+ - Clicked on my respository for [wlillisdev/hudson-homes](https://github.com/wlillisdev/hudson-homes).
  - Clicked settings tab and navigated down to "pages"
  - Selected "Main" in branch drop down box.
  - Clicked "save" which produced the live link which can be viewed [here](https://wlillisdev.github.io/hudson-homes/index.html).. 
+
+
 
 ## Credits
 
@@ -184,11 +186,33 @@ The site was created using Visual Studio Code and GitHub, and deployed to GitHub
   - [CSS](https://en.wikipedia.org/wiki/CSS)
 
 - ## Content
-  - The code for the contact us form was taken from the love running tutorial from [Code Institute](https://codeinstitute.net/ie/) and modified.
-
+   - The code for the contact us form was taken from the love running tutorial from [Code Institute](https://codeinstitute.net/ie/) and modified.
+   - The header layout was inspired from the love running tutorial from [Code Institute](https://codeinstitute.net/ie/).
+   - The icons used throughout the site were from [Font Awesome](https://fontawesome.com/)
+   - Variour Youtube tutorial were used to help understand felexbox and css grid.
+    - [Flexbox](https://www.youtube.com/watch?v=fYq5PXgSsbE)
+    - [css Grid](https://www.youtube.com/watch?v=moBhzSC455o)
 
 -  ## Images
    - All images were taken from [Pexels](https://en.wikipedia.org/wiki/CSS)
+
+  
+ -  ## Resources
+    - [Stack Overflow](https://stackoverflow.com/)
+    - [W3Schools](https://www.w3schools.com/)
+    - [w3docs](https://www.w3docs.com/)
+    - Notes & Videos from course work from [Code Institute](https://codeinstitute.net/ie/)
+
+-  ## Tools
+   - [Balsamiq](https://balsamiq.com/) - Used to create wireframes
+   - [Google Fonts](https://fonts.google.com/) - Used to import fonts
+   - [TinyPNG](https://tinypng.com/) - Used to compress images
+
+-  ## Acknowledgements
+   - Special thanks to my mentor [Chris Quinn](https://github.com/10xOXR) for his help and guidance in the development of my first website. Special thanks to my tutor Kasia and our regular class meeting’s and members of the awesome slack community
+
+
+
    
 
 
