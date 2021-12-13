@@ -113,12 +113,15 @@ The site will be targeted toward first time home owners & Family’s looking to 
 - First Time Visitors Aims:
   - As a first-time visitor, I want to quickly and easily understand what this website is about and what it can do for me.
   - As a first-time visitor, I want to quickly learn about the services on offer.
-  - As a first-time visitor, I want to be able to quickly and easily contact the company for more information or to discuss their services.
+  - As a first-time visitor, I want to be able to easily navigate around the site to find the content I'm looking for.
 
 - Returning Visitors Aims:
   - As a returning visitor, I would like to learn more about projects the company has built that may be similar to my project.
   - As a returning visitor, I want to learn about this company credentials & experience.
-  - As a returning visitor, I would like to find links to their social media channels and follow them. 
+  - As a returning visitor, I would like to find links to their social media channels and follow them.
+
+ 
+
 
 
 # Future Development
@@ -140,13 +143,15 @@ The site will be targeted toward first time home owners & Family’s looking to 
 
 # Testing
 
-- HTML Validator
+Validator Testing 
+
+ - HTML Validator
 
 
-- CSS Validator
+ - CSS Validator
 
 
-- Lighthouse
+ - Lighthouse
 
 
 - Manual Testing
@@ -156,15 +161,9 @@ The site will be targeted toward first time home owners & Family’s looking to 
 
 # Bugs
 
-  - After running the site through HTML checker a number of small bugs were identified. Each error was identified and solution applied, i went through all pages and fixed any errors.
-  - After Running the all pages through lighthouse it identified issues with a number of images due to size. Thee images were reduced in size in improve results.
-
-
-
-
-
-
-
+  - After running the site through HTML checker, a number of small bugs were identified. Each error was identified and an appropriate solution applied, i went through all pages and fixed any errors. It was good lesson and practice in finding problems with code and fixing them.
+  - After Running the all pages through lighthouse, it identified issues with a number of images due to size. Lighthouse suggested to change some larger images from jpg to avif which was done
+  - The what we do section on the home page i was having trouble in getting it to be responsvie, i decieded to implement css grid which worked out well and fixed the problem
 
 
 
@@ -177,7 +176,20 @@ The site was created using Visual Studio Code and GitHub, and deployed to GitHub
  - Selected "Main" in branch drop down box.
  - Clicked "save" which produced the live link which can be viewed [here](https://wlillisdev.github.io/hudson-homes/index.html).. 
 
-# Credits
+## Credits
+
+- ## Languages
+
+  - [HTML5](https://en.wikipedia.org/wiki/HTML5)
+  - [CSS](https://en.wikipedia.org/wiki/CSS)
+
+- ## Content
+  - The code for the contact us form was taken from the love running tutorial from [Code Institute](https://codeinstitute.net/ie/) and modified.
+
+
+-  ## Images
+   - All images were taken from [Pexels](https://en.wikipedia.org/wiki/CSS)
+   
 
 
 
