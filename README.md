@@ -37,7 +37,8 @@ The site will be targeted toward first time home owners & Family’s looking to 
   - The text box further instils this with the words you Dream it we design and build it. The customer know instantly what Hudson Homes can do for them.
   - It also has a call to action with a button encouraging customers to get a free quote.
 
-![Landing Page](assets/images/header.jpg)
+![Landing Page](assets/images/landing-page.jpg)
+
 
 - __What We Do Section__
 
