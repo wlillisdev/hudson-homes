@@ -146,7 +146,8 @@ The site will be targeted toward first time home owners & Family’s looking to 
 Validator Testing 
 
  - HTML Validator
-
+   - [W3C](https://validator.w3.org/) site was used to validate the **HTML** code.
+   - A number of small errors were initially flagged up. Some duplicate tags were removed and I also had to rename a number of images. I also misplaced a link tag in the homepage, as I copied this page structure for the rest of the site i had to fix it on all of these pages also
 
  - CSS Validator
 
