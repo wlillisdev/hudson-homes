@@ -41,8 +41,8 @@ The site will be targeted toward first time home owners & Family’s looking to 
 
 - __What We Do Section__
 
-  - What we do section allow the user to quickly evaluate if Hudson Homes has the services they require.
-  - It has a simple design with minimal text about each service, but enough text to allow the user evaluate each service. Each service also has a button to encourage the user to read more about the service.
+  - What we do section allows the user to quickly evaluate if Hudson Homes has the services they require.
+  - It has a simple design with minimal text about each service, but enough text to allow the user evaluate each service. Each service also has a button to encourage the user to read more about the service. When the button is clicked the user is brought directly to that section on the services page.
   - Each service has a nice icon that helps the user identify the specific service.
 
 ![What we do Section](assets/images/header.jpg)
@@ -81,6 +81,7 @@ The site will be targeted toward first time home owners & Family’s looking to 
   - Each specific service incorporated an eye catching background pictuer that is directly related to the service.
   - The same icons and similar text box style already used on the homepage is used on each service image to continue the design and flow of teh site and aid in the user experience.
   - Each service has a detailed despcription of each service and what exactly Hudson Homes can offer a potential customer.
+  
 
 ![Footer Bar](assets/images/header.jpg)
 
@@ -146,6 +147,23 @@ The site will be targeted toward first time home owners & Family’s looking to 
 
 
 - Lighthouse
+
+
+- Manual Testing
+  - The site was carefully tested across a variety of devices to ensure that all links and styling function properly, as well as responsiveness. All of the page's features were tested. Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, and Opera were all used to test the website. The site was carefully tested across a variety of devices to ensure that all links and styling function properly, as well as responsiveness. All of the page's features were tested.Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, and Opera were all used to test the website.
+
+  - Google Chrome's Developer Tool was used to inspect page elements during the build and helped indentify and debug issues within the HTML and CSS.
+
+# Bugs
+
+  - After running the site through HTML checker a number of small bugs were identified. Each error was identified and solution applied, i went through all pages and fixed any errors.
+  - After Running the all pages through lighthouse it identified issues with a number of images due to size. Thee images were reduced in size in improve results.
+
+
+
+
+
+
 
 
 
