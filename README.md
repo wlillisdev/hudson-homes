@@ -37,7 +37,7 @@ The site will be targeted toward first time home owners & Family’s looking to 
   - The text box further instils this with the words you Dream it we design and build it. The customer know instantly what Hudson Homes can do for them.
   - It also has a call to action with a button encouraging customers to get a free quote.
 
-![Landing Page](assets/images/landing-page.jpg)
+![Landing](assets/images/landing-page.png)
 
 
 - __What We Do Section__
@@ -149,6 +149,8 @@ The site will be targeted toward first time home owners & Family’s looking to 
  - HTML Validator
    - [W3C](https://validator.w3.org/) site was used to validate the **HTML** code.
    - A number of small errors were initially flagged up. Some duplicate tags were removed and I also had to rename a number of images. I also misplaced a link tag in the homepage, as I copied this page structure for the rest of the site i had to fix it on all of these pages also
+
+   ![hompage error](assets/images/readme-images/error fix homepage.png)
 
  ### All Pages are now error free see links below:
    - [Homepage](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwlillisdev.github.io%2Fhudson-homes%2Findex.html)
