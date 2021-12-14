@@ -86,14 +86,19 @@ The site will be targeted toward first time home owners & Family’s looking to 
   - Each service has a detailed despcription of each service and what exactly Hudson Homes can offer a potential customer.
   
 
-![Footer Bar](assets/images/header.jpg)
+![Services Section](assets/images/readme-images/services-section.png)
+
+## [View Services Featuers](https://wlillisdev.github.io/hudson-homes/services.html)
 
 
 - __Contact Us Page__
+
+## [View Contact Us Featuers](https://wlillisdev.github.io/hudson-homes/contact-us.html)
+
   - The aim of the page is to convert a potential user into a lead. It has a simple but elegant contact us form layout. That captures enough information so Hudson Homes can follow up on the lead. And allows a user’s to quickly fill out the form with minimal information.
   - It also has the aspirational theme of Build your dream incorporated into it. The header image has an elegant country home, the background image is a set of keys in a new door and the form has a call to action of "start your dream home today".
  
-![Footer Bar](assets/images/header.jpg)
+![Contact Us Form](assets/images/readme-images/contact-us.png)
 
 # Design
  - Theme
