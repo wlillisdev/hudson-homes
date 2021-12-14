@@ -108,13 +108,17 @@ The site will be targeted toward first time home owners & Family’s looking to 
  - Color Palette
    - The color palette is made up of three main colors which creates a good contrast and helps support the overall theme by creating a sleek lean and modern website.
 
-![Color Palette](assets/images/header.jpg)
+![Color Palette](assets/images/readme-images/small-Color-pallet-website.png)
 
 - Imagery
    - The images that were selected for the website were eyecathing, elegant, modern design and expertly built houses. They look like show houses and help support the theme of a user owning and designing their own dream home.
 
 - Wireframes
    - To create the initial layout and wireframe i used Balsamiq. This helped fine tune the design and layout. It also helped in calculating the amount of content and images required.
+
+  - [Homepage Wireframe](assets/images/readme-images/wireframe-homepage.png)
+  - [Servcie Page Wireframe](assets/images/readme-images/service-wireframe.png)
+   
 
 
 # User Stories
@@ -164,13 +168,13 @@ The site will be targeted toward first time home owners & Family’s looking to 
    - [Services Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwlillisdev.github.io%2Fhudson-homes%2Fservices.html)
    - [Contact Us Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwlillisdev.github.io%2Fhudson-homes%2Fcontact-us.html)
 
-  - CSS Validator
-    - The [W3C](https://validator.w3.org/) was used to validate the **CSS** code
-    - The website passed with no errors
+## CSS Validator
+  - The [W3C](https://validator.w3.org/) was used to validate the **CSS** code
+  - The website passed with no errors
 
   ### See links below for Results:
 
-   - [css](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwlillisdev.github.io%2Fhudson-homes%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+   - [CSS Test Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwlillisdev.github.io%2Fhudson-homes%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
  
 
  - Lighthouse
