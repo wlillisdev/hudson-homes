@@ -21,7 +21,9 @@ The site will be targeted toward first time home owners & Family’s looking to 
  
 - You can see the live website [here](https://wlillisdev.github.io/hudson-homes/index.html)..
 
-# Features
+# Features 
+
+## [View Homepage Featuers](https://wlillisdev.github.io/hudson-homes/index.html)
 
 - __Navigation Bar__
  
@@ -53,7 +55,7 @@ The site will be targeted toward first time home owners & Family’s looking to 
   - This is a quick and brief description about Hudson Homes. To allow the user to find out some background information about the company.
   - It outlines the  main qualities of why Hudson Homes would be an excellent partner for a new user looking to build a new home.
 
-![About Us](assets/images/header.jpg)
+![About Us](assets/images/readme-images/about-us-section.png)
 
 - __Our Crediantials Section__
 
@@ -61,7 +63,7 @@ The site will be targeted toward first time home owners & Family’s looking to 
   - This section outlines the industry recognised organisation that Hudson Homes are registered members of.
   - To a new user visiting the site and having little knowledge of the company this is a big thumbs up to show them that Hudson Homes is a reputable builder.
 
-![Our Crediantials](assets/images/header.jpg)
+![Our Crediantials](assets/images/readme-images/crediantials-section.png)
 
 - __Footer__
 
@@ -69,7 +71,7 @@ The site will be targeted toward first time home owners & Family’s looking to 
   - It contains 3 social media platforms as requested by Hudson Homes they will also open in a new window to allow easy navigation for the user.
   - The main aim of the footer is to increase engagement with visitors and get them to view new projects that are currently been built and showcase previous projects.With the goal of building confidence with new customers & getting them to subscribe to the various social channels. This is done with a simple text in the footer, Follow Our Recent Projects On. 
 
-![Footer Bar](assets/images/header.jpg)
+![Footer Bar](assets/images/readme-images/footer.png)
 
 - __Hover__
 
