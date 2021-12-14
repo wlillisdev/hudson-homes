@@ -176,12 +176,14 @@ The site will be targeted toward first time home owners & Family’s looking to 
   ### See links below for Results:
 
    - [CSS Test Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwlillisdev.github.io%2Fhudson-homes%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
  
+## Lighthouse
 
- - Lighthouse
 
 
-- Manual Testing
+
+## Manual Testing
   - The site was carefully tested across a variety of devices to ensure that all links and styling function properly, as well as responsiveness. All of the page's features were tested on Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, and Opera . The site was carefully tested across a variety of devices to ensure that all links and styling function properly, as well as responsiveness.
 
   - Google Chrome's Developer Tool was used to inspect page elements during the build and helped indentify and debug issues within the HTML and CSS.
