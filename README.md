@@ -73,7 +73,7 @@ The site will be targeted toward first time home owners & Family’s looking to 
 
 ![Footer Bar](assets/images/readme-images/footer.png)
 
-- __Hover__
+- __Hoover__
 
   - Each clickable element on the website changes color when hovered over with a mouse. This is to encourage users to click on buttons and links and increase engagement and user experience.
 
