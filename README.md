@@ -23,7 +23,7 @@ The site will be targeted toward first time home owners & Family’s looking to 
 
 # Features 
 
-## [View Homepage Featuers](https://wlillisdev.github.io/hudson-homes/index.html)
+ [View Homepage Featuers](https://wlillisdev.github.io/hudson-homes/index.html)
 
 - __Navigation Bar__
  
@@ -88,12 +88,12 @@ The site will be targeted toward first time home owners & Family’s looking to 
 
 ![Services Section](assets/images/readme-images/services-section.png)
 
-## [View Services Featuers](https://wlillisdev.github.io/hudson-homes/services.html)
+ [View Services Featuers](https://wlillisdev.github.io/hudson-homes/services.html)
 
 
 - __Contact Us Page__
 
-## [View Contact Us Featuers](https://wlillisdev.github.io/hudson-homes/contact-us.html)
+ [View Contact Us Featuers](https://wlillisdev.github.io/hudson-homes/contact-us.html)
 
   - The aim of the page is to convert a potential user into a lead. It has a simple but elegant contact us form layout. That captures enough information so Hudson Homes can follow up on the lead. And allows a user’s to quickly fill out the form with minimal information.
   - It also has the aspirational theme of Build your dream incorporated into it. The header image has an elegant country home, the background image is a set of keys in a new door and the form has a call to action of "start your dream home today".
@@ -116,8 +116,8 @@ The site will be targeted toward first time home owners & Family’s looking to 
 - Wireframes
    - To create the initial layout and wireframe i used Balsamiq. This helped fine tune the design and layout. It also helped in calculating the amount of content and images required.
 
-  - [Homepage Wireframe](assets/images/readme-images/wireframe-homepage.png)
-  - [Servcie Page Wireframe](assets/images/readme-images/service-wireframe.png)
+  - [Homepage Wireframe Concept](assets/images/readme-images/wireframe-homepage.png)
+  - [Servcie Page Wireframe Concept](assets/images/readme-images/service-wireframe.png)
    
 
 
@@ -133,9 +133,6 @@ The site will be targeted toward first time home owners & Family’s looking to 
   - As a returning visitor, I would like to find links to their social media channels and follow them.
 
  
-
-
-
 # Future Development
 - Burger Menu
   - I will add a burger menu for navigation for smaller screen sizes at a later date. i belive this will make the header neater and more user friendly
@@ -150,9 +147,6 @@ The site will be targeted toward first time home owners & Family’s looking to 
 - Client Login
   - Have a login section on the site so the customer can look at changes to drawings, approve changes, make changes, get live updates on the project from the project manager and to upload tender documents.
 
-
-
-
 # Testing
 
 ### Validator Testing 
@@ -160,10 +154,15 @@ The site will be targeted toward first time home owners & Family’s looking to 
  - HTML Validator
    - [W3C](https://validator.w3.org/) site was used to validate the **HTML** code.
    - A number of small errors were initially flagged up. Some duplicate tags were removed and I also had to rename a number of images. I also misplaced a link tag in the homepage, as I copied this page structure for the rest of the site i had to fix it on all of these pages also
+     - [Erros From Validator Hompage](assets/images/readme-images/error_homepge.png)
+     - [Erros From Validator Hompage](assets/images/readme-images/error-homepage-2.png)
+     - [Erros From Validator Contact Us](assets/images/readme-images/contact-us-error.png)
 
    
 
  ### All Pages are now error free see links below:
+
+ ![Servcie Page Wireframe Concept](assets/images/readme-images/hompage-pass.png)
    - [Homepage](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwlillisdev.github.io%2Fhudson-homes%2Findex.html)
    - [Services Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwlillisdev.github.io%2Fhudson-homes%2Fservices.html)
    - [Contact Us Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwlillisdev.github.io%2Fhudson-homes%2Fcontact-us.html)
@@ -171,6 +170,8 @@ The site will be targeted toward first time home owners & Family’s looking to 
 ## CSS Validator
   - The [W3C](https://validator.w3.org/) was used to validate the **CSS** code
   - The website passed with no errors
+
+  ![CSS Pass](assets/images/readme-images/css-pass.png)
 
   ### See links below for Results:
 
