@@ -57,11 +57,11 @@ h2 {
 
 }
 
-#logo {
-    float: left;
+.logo {
+    /* float: left; */
     font-size: 2rem;
     text-shadow: 2px 2px 5px #808080;
-    margin-left: 2.5rem;
+    margin-left: 1rem;
 }
 
 /* menus nav stylying */
@@ -74,12 +74,10 @@ h2 {
 
 #menu li {
 
-    float: right;
-    list-style-type: none;
+    /* float: right; */
+    /* list-style-type: none; */
     margin-right: 1rem;
     font-weight: bold;
-
-
 }
 
 #menu a {
@@ -88,9 +86,11 @@ h2 {
 
 }
 
-#menu,
-#logo {
-    line-height: 75px;
+
+.logo a { 
+
+    text-decoration: none;
+    /* line-height: 75px; */
 }
 
 #menu a:hover {
@@ -104,6 +104,20 @@ h2 {
 
 }
 
+#site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+}
+
+#menu li {
+    display: inline-flex;
+    margin: 0 10px;
+    list-style-type: none;
+    
+}
+
 /* Hero Image */
 
 .hero {
@@ -111,10 +125,11 @@ h2 {
     height: 500px;
     background-image: url(../images/home-page-hero-crop.png);
     width: 100%;
-    position: relative;
+    /* position: relative; */
     align-items: center;
     justify-content: center;
     display: flex;
+    min-height: 100vh;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -472,7 +487,7 @@ h2 {
     padding: 30px;
 }
 
-.signup-form > h2 {
+.signup-form>h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
@@ -488,7 +503,7 @@ h2 {
 }
 
 .text-input:hover {
-    border-color: rgb(0,0,51);
+    border-color: rgb(0, 0, 51);
 }
 
 .join-button {
@@ -498,7 +513,7 @@ h2 {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color:rgb(0,0,51);
+    background-color: rgb(0, 0, 51);
     color: #fafafa;
     display: block;
 }
