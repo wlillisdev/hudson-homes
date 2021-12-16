@@ -213,7 +213,14 @@ h2 {
     border-radius: 5px;
     text-transform: uppercase;
     padding: .3rem 2.5rem;
+    border: groove;
 
+}
+
+.hero-button:active {
+
+    transform: translate(4px);
+    box-shadow: 0 5px rgb(182, 182, 182));
 }
 
 .hero-button:hover {
@@ -256,12 +263,14 @@ h2 {
     border-radius: 5px;
     text-transform: uppercase;
     padding: .3rem 2.3rem;
+    border: groove;
 
 }
 
 .services-button:active {
 
     transform: translate(4px);
+    box-shadow: 0 5px;
 }
 
 .services-button:hover {
