@@ -148,7 +148,6 @@ h2 {
     #logo {
         font-size: 9vw;
         margin: 0 5px;
-
     }
 
 }
@@ -215,7 +214,7 @@ h2 {
 .hero-button:active {
 
     transform: translate(4px);
-    box-shadow: 0 5px rgb(182, 182, 182));
+    box-shadow: 0 5px rgb(182, 182, 182);
 }
 
 .hero-button:hover {
