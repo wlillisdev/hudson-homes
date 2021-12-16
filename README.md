@@ -86,13 +86,13 @@ The website has been designed to operate in a number of screen and devices.
 
 - __Services Page__
 
-  -  This page clrarly lays out in more detail what construction services Hudson Homes offers. It is the next step on the users journery. 
+  -  This page clearly lays out in more detail what construction services Hudson Homes offers. It is the next step on the users journery. 
   - Each specific service incorporated an eye catching background pictuer that is directly related to the service.
   - The same icons and similar text box style already used on the homepage is used on each service image to continue the design and flow of teh site and aid in the user experience.
   - Each service has a detailed despcription of each service and what exactly Hudson Homes can offer a potential customer.
   
 
-![Services Section](assets/images/readme-images/services-section.png)
+![Services Section](assets/images/readme-images/design-build-service.png)
 
  [View Services Featuers](https://wlillisdev.github.io/hudson-homes/services.html)
 
