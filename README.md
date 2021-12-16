@@ -18,6 +18,12 @@ Each service will be outlined in detail to educate and entice the customer to ac
 The theme throughout the website is that Hudson Homes can create and build your dream home. And who doesn’t want a dream home.
 And ultimately bring the customer to engage and contact Hudson Homes via the website for more information. 
 The site will be targeted toward first time home owners & Family’s looking to expand and develop an existing property.
+
+# Responsive 
+The website has been designed to operate in a number of screen and devices.
+
+![Am I Responsive Test](assets/images/readme-images/responsive-1.png)
+
  
 - You can see the live website [here](https://wlillisdev.github.io/hudson-homes/index.html)..
 
