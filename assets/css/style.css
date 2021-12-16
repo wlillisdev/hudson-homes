@@ -67,8 +67,6 @@ h2 {
 }
 
 #logo {
-    /* float: left; */
-    /* font-size: 2rem; */
     text-shadow: 2px 2px 5px #808080;
     margin-left: 8px;
 }
@@ -100,7 +98,7 @@ h2 {
 #logo a {
 
     text-decoration: none;
-    /* line-height: 75px; */
+
 }
 
 #menu a:hover {
@@ -121,7 +119,7 @@ h2 {
     align-items: center;
     padding: 15px 5px;
     text-align: center;
-    
+
 }
 
 #menu li {
@@ -130,17 +128,18 @@ h2 {
     list-style-type: none;
 
 }
-
+/* media query diaply screen in row at 600px */
 @media only screen and (min-width: 600px) {
     #site-header {
         flex-direction: row;
     }
 }
-
+/* media query remove hero banner hompage in small smart phone less than 335px */
 @media only screen and (max-width: 335px) {
     .hero-text {
         display: none;
     }
+/* media query make logo and nav list smaller in small screens lesss */
     #menu {
         font-size: 5vw;
         margin: 0 2px;
@@ -154,7 +153,6 @@ h2 {
 
 }
 
-
 /* Hero Image */
 
 .hero {
@@ -162,7 +160,6 @@ h2 {
     height: 500px;
     background-image: url(../images/home-page-hero-crop.png);
     width: 100%;
-    /* position: relative; */
     align-items: center;
     justify-content: center;
     display: flex;
@@ -170,8 +167,6 @@ h2 {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
-
 }
 
 .hero-text {
@@ -242,9 +237,7 @@ h2 {
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     grid-gap: 30px;
     padding: 20px;
-
 }
-
 
 .box-text {
     text-align: center;
@@ -253,8 +246,6 @@ h2 {
     line-height: 30px;
 
 }
-
-
 
 .services-button {
 
@@ -281,9 +272,6 @@ h2 {
 
 /* About Us Home Page Section */
 
-
-
-
 .services-heading {
 
     text-align: center;
@@ -292,20 +280,16 @@ h2 {
 
 .text-about {
 
-
     text-align: center;
     font-size: 1rem;
     line-height: 30px;
     padding: 10px;
     border-bottom: groove;
     padding-bottom: 20px;
-
-
 }
 
 .fa-check-circle {
     color: green;
-
 }
 
 
@@ -315,7 +299,6 @@ h2 {
 
     text-align: center;
     padding-top: 20px;
-
 
 }
 
@@ -327,9 +310,7 @@ h2 {
     justify-content: space-evenly;
     padding: 5px;
     padding-bottom: 20px;
-
 }
-
 
 .img-cred {
 
@@ -343,18 +324,12 @@ h2 {
 }
 
 .footer-wrapper {
-
-
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     padding: 5px;
     padding-bottom: 10px;
-
-
 }
-
-
 
 .footer-text {
     text-align: center;
@@ -391,9 +366,7 @@ h2 {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
 }
-
 
 /* Hero Text Box services */
 
@@ -406,9 +379,6 @@ h2 {
     border-style: groove;
     border-radius: 10px;
     position: absolute;
-
-
-
 }
 
 /* Text Content styling services section */
@@ -425,12 +395,9 @@ h2 {
     padding-right: 10px;
     border-radius: 15px;
     border: groove;
-    /* margin-left: 10px;
-        margin-right: 10px; */
     padding-top: 10px;
     padding-bottom: 10px;
     line-height: 1.5rem;
-
 }
 
 .services-button {
@@ -532,8 +499,8 @@ h2 {
 
 .contact-details {
     font-size: 1rem;
-    padding:2px;
-    
+    padding: 2px;
+
 }
 
 
