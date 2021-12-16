@@ -505,7 +505,7 @@ h2 {
 .contact-hero {
 
     height: 150px;
-    background-image: url(../images/contact-us.jpg);
+    background-image: url(../images/contact-us-crop.jpg);
     width: 100%;
     position: relative;
     align-items: center;
@@ -541,7 +541,7 @@ h2 {
 
 .form-section {
     clear: left;
-    background: url(../images/contact-us-form.jpg);
+    background: url(../images/keys-contact-back.jpg);
     background-size: cover;
     background-position: center;
     height: 900px;
