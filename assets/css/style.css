@@ -61,9 +61,10 @@ h2 {
     color: #000033;
 
 }
+
 #site-header {
     font-size: 110%;
-  }
+}
 
 #logo {
     /* float: left; */
@@ -121,8 +122,6 @@ h2 {
     padding: 15px 5px;
     text-align: center;
     
-    
-
 }
 
 #menu li {
@@ -138,12 +137,21 @@ h2 {
     }
 }
 
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 335px) {
     .hero-text {
         display: none;
-        
     }
-    
+    #menu {
+        font-size: 5vw;
+        margin: 0 2px;
+    }
+
+    #logo {
+        font-size: 9vw;
+        margin: 0 5px;
+
+    }
+
 }
 
 
@@ -177,7 +185,7 @@ h2 {
     border-radius: 10px;
     font-size: 1rem;
     min-width: 50vw;
-   
+
 }
 
 .hero-title {
@@ -269,7 +277,7 @@ h2 {
 
 .text-about {
 
-    
+
     text-align: center;
     font-size: 1rem;
     line-height: 30px;
