@@ -131,7 +131,7 @@ h2 {
 
 }
 
-@media only screen and (min-width: 560px) {
+@media only screen and (min-width: 600px) {
     #site-header {
         flex-direction: row;
     }
@@ -257,6 +257,11 @@ h2 {
     text-transform: uppercase;
     padding: .3rem 2.3rem;
 
+}
+
+.services-button:active {
+
+    transform: translate(4px);
 }
 
 .services-button:hover {
@@ -401,6 +406,7 @@ h2 {
 .services-content {
 
     display: flex;
+    flex-direction: column;
     background-color: grey;
     text-align: center;
     color: white;
