@@ -90,6 +90,7 @@ The website has been designed to operate in a number of screen and devices.
   - Each specific service incorporated an eye catching background pictuer that is directly related to the service.
   - The same icons and similar text box style already used on the homepage is used on each service image to continue the design and flow of teh site and aid in the user experience.
   - Each service has a detailed despcription of each service and what exactly Hudson Homes can offer a potential customer.
+  - At the end of the text the customer has a button called read more, this button will encourage the user to make a furter action.On clicking this button it will lead the user to the contact us page & the contact us form. To continue the logiacal flow through th website.
   
 
 ![Services Section](assets/images/readme-images/design-build-service.png)
