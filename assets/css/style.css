@@ -556,6 +556,11 @@ h2 {
 }
 
 .join-button:hover {
-    background-color: #fafafa;
-    color: #f16c6b;
+    background-color:whitesmoke;
+    color: black;
+}
+
+.join-button:active {
+    transform: translate(4px);
+    box-shadow: 0 5px #fafafa(182, 182, 182);
 }
