@@ -591,5 +591,9 @@ h2 {
 
     width: 100%;
 
+}
 
+.video-heading {
+    text-align: center;
+    padding-bottom: 10px;
 }
