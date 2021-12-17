@@ -128,18 +128,21 @@ h2 {
     list-style-type: none;
 
 }
+
 /* media query diaply screen in row at 600px */
 @media only screen and (min-width: 600px) {
     #site-header {
         flex-direction: row;
     }
 }
+
 /* media query remove hero banner hompage in small smart phone less than 335px */
 @media only screen and (max-width: 335px) {
     .hero-text {
         display: none;
     }
-/* media query make logo and nav list smaller in small screens lesss */
+
+    /* media query make logo and nav list smaller in small screens lesss */
     #menu {
         font-size: 5vw;
         margin: 0 2px;
@@ -274,6 +277,7 @@ h2 {
 
     text-align: center;
     border-top: groove;
+    padding-bottom: 5px;
 }
 
 .text-about {
@@ -526,7 +530,7 @@ h2 {
 
 .signup-form>h2 {
     color: #CCCCCC;
-    margin-bottom:20px;
+    margin-bottom: 20px;
 }
 
 .text-input {
@@ -556,11 +560,36 @@ h2 {
 }
 
 .join-button:hover {
-    background-color:whitesmoke;
+    background-color: whitesmoke;
     color: black;
 }
 
 .join-button:active {
     transform: translate(4px);
     box-shadow: 0 5px rgb(182, 182, 182);
+}
+
+
+.container-video {
+
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    /* justify-content: center;
+    align-items: center; */
+    width: 100%
+
+}
+
+.video {
+
+    width: 100%;
+    height: auto;
+}
+
+.h-video {
+
+    width: 100%;
+
+
 }
