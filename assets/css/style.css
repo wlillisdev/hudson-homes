@@ -525,8 +525,8 @@ h2 {
 }
 
 .signup-form>h2 {
-    color: #CCCCCC
-    margin-bottom: 20px;
+    color: #CCCCCC;
+    margin-bottom:20px;
 }
 
 .text-input {
@@ -562,5 +562,5 @@ h2 {
 
 .join-button:active {
     transform: translate(4px);
-    box-shadow: 0 5px #fafafa(182, 182, 182);
+    box-shadow: 0 5px rgb(182, 182, 182);
 }
