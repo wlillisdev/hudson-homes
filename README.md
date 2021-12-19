@@ -42,13 +42,13 @@ The website has been designed to operate in a number of screen and devices.
 
  [View Homepage Featuers](https://wlillisdev.github.io/hudson-homes/index.html)
 
-- __Favicon__
+__Favicon__
  - As the website is based around house building i got a house icon image from [Flaticon](https://www.flaticon.com/free-icons/house)
  - This will help to furthetr enforce the brand image of a house building company to the user.
  
  ![favicon](assets/images/readme-images/favicon.png)
 
-- __Navigation Bar__
+__Navigation Bar__
  
   - The Navigation bar is located at the top of all three Pages. It is simple but clean design. It includes the logo, Home page, Service and Contact Us page.
   - It will allow a visitor to quickly and easily get around the site as each link logically leads to the next.
@@ -56,7 +56,7 @@ The website has been designed to operate in a number of screen and devices.
 
  ![Navigation Bar](assets/images/header.jpg)
 
-- __Landing Page__
+__Landing Page__
 
   - The landing page contains an eye-catching background image of a beautiful modern built house by Hudson Homes. It immediately catches the eye and infers the aspiration of what a customer’s dream house could be if it was built by Hudson Homes.
   - The text box further instils this with the words you Dream it we design and build it. The customer know instantly what Hudson Homes can do for them.
@@ -65,7 +65,7 @@ The website has been designed to operate in a number of screen and devices.
  ![Landing](assets/images/readme-images/landing-page.png)
 
 
-- __What We Do Section__
+__What We Do Section__
 
   - What we do section allows the user to quickly evaluate if Hudson Homes has the services they require.
   - It has a simple design with minimal text about each service, but enough text to allow the user evaluate each service. Each service also has a button to encourage the user to read more about the service. When the button is clicked the user is brought directly to that section on the services page.
@@ -73,14 +73,14 @@ The website has been designed to operate in a number of screen and devices.
 
  ![What we do Section](assets/images/readme-images/what-we-do-section.png)
 
-- __About Us Section__
+__About Us Section__
 
   - This is a quick and brief description about Hudson Homes. To allow the user to find out some background information about the company.
   - It outlines the  main qualities of why Hudson Homes would be an excellent partner for a new user looking to build a new home.
 
  ![About Us](assets/images/readme-images/about-us-section.png)
 
-- __Our Crediantials Section__
+__Our Crediantials Section__
 
   - This is the next step on the user's journey as they scroll down the homepage, The about us section highlights why you should choose Hudson Homes as a partner but this section reinforces this point with industry credentials.
   - This section outlines the industry recognised organisation that Hudson Homes are registered members of.
@@ -89,13 +89,13 @@ The website has been designed to operate in a number of screen and devices.
  ![Our Crediantials](assets/images/readme-images/crediantials-section.png)
 
 
-- __Recent Project__
+__Recent Project__
   - A short video was added to show case a recent project. It will show the users a finished house build by Hudson Homes. And the high quality and perfect finish that they can expect in their project.
   - It is placed just above the footer, where it prompts the user to follow one of the socail channels to view more projects.
   ![Video](assets/images/readme-images/recent-project-video.png)
 
 
-- __Footer__
+__Footer__
 
   - The footer is simple and clean design it is the same on all pages of the website.
   - It contains 3 social media platforms as requested by Hudson Homes they will also open in a new window to allow easy navigation for the user.
@@ -109,7 +109,7 @@ The website has been designed to operate in a number of screen and devices.
   - Buttons on the website when clicked on by the user look like they are been pushed.I added this to improved the UX of the website.
 
 
-- __Services Page__
+__Services Page__
 
   -  This page clearly lays out in more detail what construction services Hudson Homes offers. It is the next step on the users journery. 
   - Each specific service incorporated an eye catching background pictuer that is directly related to the service.
@@ -123,7 +123,7 @@ The website has been designed to operate in a number of screen and devices.
   [View Services Featuers](https://wlillisdev.github.io/hudson-homes/services.html)
 
 
-- __Contact Us Page__
+__Contact Us Page__
 
  [View Contact Us Featuers](https://wlillisdev.github.io/hudson-homes/contact-us.html)
 
@@ -224,7 +224,7 @@ The website has been designed to operate in a number of screen and devices.
   - On low quailty smart phones with with pixle width less than 300px the hompe page hero text banner did not work properly, so i decided to add a media query and remove it  as i felt it was affecting user experience.
 
   # Unfixed Bugs
-  - Aparting from removeing the hero banner text from the hompage for smart phones with screen sizes below 300px i am unaware of any other bugs at this time.
+  - Apart from removeing the hero banner text from the hompage for smart phones with screen sizes below 300px i am unaware of any other bugs at this time.
 
 
 
