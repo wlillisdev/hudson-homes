@@ -1,5 +1,7 @@
 # Hudson Homes
 
+- You can see the live website [here](https://wlillisdev.github.io/hudson-homes/index.html)..
+
 ![House Built By Hudson Homes](assets/images/new-builds.jpg)
 
 This website is designed for Hudson Homes who is a national construction company. They have been in business for over 30 years. Although they specialise in all aspects of construction, they wanted a new website to focus primarily on the house building market and all aspects of it.
@@ -25,16 +27,15 @@ The website has been designed to operate in a number of screen and devices.
 ![Am I Responsive Test](assets/images/readme-images/responsive-1.png)
 
  
-- You can see the live website [here](https://wlillisdev.github.io/hudson-homes/index.html)..
-
 # Features 
 
  [View Homepage Featuers](https://wlillisdev.github.io/hudson-homes/index.html)
 
 - __Favicon__
  - As the website is based around house building i got a house icon image from [Flaticon] (https://www.flaticon.com/free-icons/house)
- - This will help to furthetr enforce the brand image of a house building company tot he user.
- [favicon](assets/images/readme-images/favicon.png)
+ - This will help to furthetr enforce the brand image of a house building company to the user.
+ 
+ ![favicon](assets/images/readme-images/favicon.png)
 
 - __Navigation Bar__
  
@@ -196,9 +197,14 @@ The website has been designed to operate in a number of screen and devices.
 
 
 ## Manual Testing
-  - The site was carefully tested across a variety of devices to ensure that all links and styling function properly, as well as responsiveness. All of the page's features were tested on Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, and Opera . The site was carefully tested across a variety of devices to ensure that all links and styling function properly, as well as responsiveness.
+    - All the site links were manually tested to see if they all worked ok and linked to the correct locations.
+    - The form was checked that name and email were required, that the radio buttons functioned and that the submit button worked.
+    - The site was further tested using feedback from mentor,family and friends who checked it on diffrent devices they had.
+    - The site was carefully tested across a variety of devices to ensure that all links and styling function properly, as well as responsiveness. All of the page's features were tested on Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, and Opera .
+    - Google Chrome's Developer Tool was used to inspect page elements during the build and helped indentify and debug issues within the HTML and CSS.
+    - The README.md was checked before final submission and links verfied.
 
-  - Google Chrome's Developer Tool was used to inspect page elements during the build and helped indentify and debug issues within the HTML and CSS.
+
 
 # Bugs
 
@@ -211,16 +217,35 @@ The website has been designed to operate in a number of screen and devices.
 
 # Deployment
 
-The site was created using Visual Studio Code and GitHub, and deployed to GitHub pages for testing using the below process: 
+The site was created using Visual Studio Code and GitHub, and deployed to GitHub pages for testing using the below process:
+
 
  - Clicked on my respository for [wlillisdev/hudson-homes](https://github.com/wlillisdev/hudson-homes).
  - Clicked settings tab and navigated down to "pages"
  - Selected "Main" in branch drop down box.
  - Clicked "save" which produced the live link which can be viewed [here](https://wlillisdev.github.io/hudson-homes/index.html).. 
 
+ ## Version Control
+  - Git was used as the version control software. Commands such as git add ., git status, git commit and git push were used to add, save, stage and push the code to the GitHub repository.
+
+## Cloning
+
+1. On [GitHub](www.github.com), navigate to the main page of the repository.  [Click Here for Reposititory Link](https://github.com/wlillisdev/hudson-homes)
+
+2. Above the list of files, click Code.
+
+3. click Use GitHub CLI, then click the copy icon.
+
+4. Open Git Bash and change the current working directory to the location where you want the cloned directory.
+
+5. Type git clone, and then paste the URL that was copied previouly in step 3.
+
+6. Press Enter to create the local clone.
+
+[git cloning steps with pictuers](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop)
 
 
-## Credits
+# Credits
 
 - ## Languages
 
