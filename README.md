@@ -279,6 +279,13 @@ The site was created using Visual Studio Code and GitHub, and deployed to GitHub
    - Special thanks to my mentor [Chris Quinn](https://github.com/10xOXR) for his help and guidance in the development of my first website. Special thanks to my tutor Kasia and our regular class meeting’s and members of the awesome slack community
 
 
+   # Conclusion
+    - I would put more emphasis on a mobile first design when it came to buildin out the site.
+    - If I was to build this site again, I would spend more time on the wireframes and know exactly how to structure each section and element
+    - Due to time constraints, I did not have time to experiment a lot with flex or CSS grid, I think I could have got a better services page layout with CSS grid.
+    - I would also learn to make more commits during the project built.
+-
+
 
    
 
