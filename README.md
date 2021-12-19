@@ -2,7 +2,7 @@
 
 - You can see the live website [here](https://wlillisdev.github.io/hudson-homes/index.html)..
 
-![House Built By Hudson Homes](assets/images/new-builds.jpg)
+![House Built By Hudson Homes](assets/images/home-page-hero-crop.png)
 
 This website is designed for Hudson Homes who is a national construction company. They have been in business for over 30 years. Although they specialise in all aspects of construction, they wanted a new website to focus primarily on the house building market and all aspects of it.
 
@@ -88,6 +88,7 @@ The website has been designed to operate in a number of screen and devices.
 - __Hoover__
 
   - Each clickable element on the website changes color when hovered over with a mouse. This is to encourage users to click on buttons and links and increase engagement and user experience.
+  - Buttons on the website when clicked on by the user look like they are been pushed.I added this to improved the UX of the website.
 
 
 - __Services Page__
@@ -191,10 +192,13 @@ The website has been designed to operate in a number of screen and devices.
    - [CSS Test Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwlillisdev.github.io%2Fhudson-homes%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
  
-## Lighthouse
+## Lighthouses
+ - Lighthouse testing was carried out in Developer Tools in Chrome. Initally it gave a number of improvements and flagged up a number of images that needed to be reduced in size.Which was done.
 
-
-
+ - The results were also skewed as the chrome extensions on the testing devive was effeting the lighthouse results. The tests of all pages were redone in a incognito window and performance score increased.
+ ![Hompage](assets/images/readme-images/light-house-home.png)
+ [Service Page](assets/images/readme-images/light-house-service.png)
+ [Contact Us](assets/images/readme-images/light-house-contact.png)
 
 ## Manual Testing
   - All the site links were manually tested to see if they all worked ok and linked to the correct locations.
