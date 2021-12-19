@@ -121,7 +121,7 @@ The website has been designed to operate in a number of screen and devices.
  - Color Palette
    - The color palette is made up of three main colors which creates a good contrast and helps support the overall theme by creating a sleek lean and modern website.
 
- ![Color Palette](assets/images/readme-images/colors-hudson homes.png)
+ ![Color Palette](assets/images/colors-hudson.png)
 
 - Imagery
    - The images that were selected for the website were eyecathing, elegant, modern design and expertly built houses. They look like show houses and help support the theme of a user owning and designing their own dream home.
