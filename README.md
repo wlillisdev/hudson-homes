@@ -6,7 +6,7 @@
 
 This website is designed for Hudson Homes who is a national construction company. They have been in business for over 30 years. Although they specialise in all aspects of construction, they wanted a new website to focus primarily on the house building market and all aspects of it.
 
-## Aim of Website
+# User Experience (UX)
 
 The goal of the website is to show case Hodson Homes reputation of excellence, craftmanship and experience in the house building market.
 It will target a wider range of clients as previously they only focused on high end bespoke house builds. 
@@ -21,18 +21,29 @@ The theme throughout the website is that Hudson Homes can create and build your 
 And ultimately bring the customer to engage and contact Hudson Homes via the website for more information. 
 The site will be targeted toward first time home owners & Family’s looking to expand and develop an existing property.
 
+# User Stories
+- First Time Visitors Aims:
+  - As a first-time visitor, I want to quickly and easily understand what this website is about and what it can do for me.
+  - As a first-time visitor, I want to quickly learn about the services on offer.
+  - As a first-time visitor, I want to be able to easily navigate around the site to find the content I'm looking for.
+
+- Returning Visitors Aims:
+  - As a returning visitor, I would like to learn more about projects the company has built that may be similar to my project.
+  - As a returning visitor, I want to learn about this company credentials & experience.
+  - As a returning visitor, I would like to find links to their social media channels and follow them.
+
 # Responsive 
 The website has been designed to operate in a number of screen and devices.
 
 ![Am I Responsive Test](assets/images/readme-images/responsive-1.png)
 
- 
+
 # Features 
 
  [View Homepage Featuers](https://wlillisdev.github.io/hudson-homes/index.html)
 
 - __Favicon__
- - As the website is based around house building i got a house icon image from [Flaticon] (https://www.flaticon.com/free-icons/house)
+ - As the website is based around house building i got a house icon image from [Flaticon](https://www.flaticon.com/free-icons/house)
  - This will help to furthetr enforce the brand image of a house building company to the user.
  
  ![favicon](assets/images/readme-images/favicon.png)
@@ -77,6 +88,13 @@ The website has been designed to operate in a number of screen and devices.
 
  ![Our Crediantials](assets/images/readme-images/crediantials-section.png)
 
+
+- __Recent Project__
+  - A short video was added to show case a recent project. It will show the users a finished house build by Hudson Homes. And the high quality and perfect finish that they can expect in their project.
+  - It is placed just above the footer, where it prompts the user to follow one of the socail channels to view more projects.
+  ![Video](assets/images/readme-images/recent-project-video.png)
+
+
 - __Footer__
 
   - The footer is simple and clean design it is the same on all pages of the website.
@@ -102,7 +120,7 @@ The website has been designed to operate in a number of screen and devices.
 
  ![Services Section](assets/images/readme-images/design-build-service.png)
 
- [View Services Featuers](https://wlillisdev.github.io/hudson-homes/services.html)
+  [View Services Featuers](https://wlillisdev.github.io/hudson-homes/services.html)
 
 
 - __Contact Us Page__
@@ -134,19 +152,6 @@ The website has been designed to operate in a number of screen and devices.
   - [Servcie Page Wireframe Concept](assets/images/readme-images/service-wireframe.png)
    
 
-
-# User Stories
-- First Time Visitors Aims:
-  - As a first-time visitor, I want to quickly and easily understand what this website is about and what it can do for me.
-  - As a first-time visitor, I want to quickly learn about the services on offer.
-  - As a first-time visitor, I want to be able to easily navigate around the site to find the content I'm looking for.
-
-- Returning Visitors Aims:
-  - As a returning visitor, I would like to learn more about projects the company has built that may be similar to my project.
-  - As a returning visitor, I want to learn about this company credentials & experience.
-  - As a returning visitor, I would like to find links to their social media channels and follow them.
-
- 
 # Future Development
 - Burger Menu
   - I will add a burger menu for navigation for smaller screen sizes at a later date. i belive this will make the header neater and more user friendly

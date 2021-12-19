@@ -238,7 +238,7 @@ h2 {
 .services-heading {
 
     text-align: center;
-    
+    border-top: groove;
     padding-bottom: 5px;
 }
 
@@ -278,7 +278,10 @@ h2 {
 
 .img-cred {
 
-    margin: 5px;
+    margin: 10px;
+    height: 15.5rem;
+    width: 15.5rem;
+    
 }
 
 /* Footer */
@@ -468,9 +471,7 @@ h2 {
 }
 
 
-/* contact us Page*/
-
-/* contact us Hero Image*/
+/* contact us form*/
 
 .form-section {
     clear: left;
@@ -480,7 +481,7 @@ h2 {
     height: 900px;
 }
 
-/* contact us Form*/
+
 .contact-us {
     margin: 150px 10% 0 0;
     color: black;
@@ -555,14 +556,9 @@ h2 {
 
 }
 
-/* .h-video {
-
-    width: 100%;
-
-} */
-
 .video-heading {
     border-top: groove;
     text-align: center;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
+    padding-top:10px;
 }
