@@ -575,23 +575,24 @@ h2 {
     display: flex;
     flex-direction:row;
     justify-content: space-around;
-    /* justify-content: center;
-    align-items: center; */
-    width: 100%
+    min-width: 100%;
+      
 
 }
 
 .video {
 
-    width: 100%;
-    height: auto;
-}
-
-.h-video {
-
-    width: 100%;
+    width: 100vw;
+    height:43vw;
+    object-fit: cover;
 
 }
+
+/* .h-video {
+
+    width: 100%;
+
+} */
 
 .video-heading {
     text-align: center;
