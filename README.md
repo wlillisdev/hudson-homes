@@ -192,13 +192,14 @@ The website has been designed to operate in a number of screen and devices.
    - [CSS Test Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwlillisdev.github.io%2Fhudson-homes%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
  
-## Lighthouses
- - Lighthouse testing was carried out in Developer Tools in Chrome. Initally it gave a number of improvements and flagged up a number of images that needed to be reduced in size.Which was done.
+## Lighthouse
+ - Lighthouse testing was carried out in Developer Tools in Chrome. Initially it gave a number of improvements and flagged up a number of images that needed to be reduced in size. Which was done.
 
- - The results were also skewed as the chrome extensions on the testing devive was effeting the lighthouse results. The tests of all pages were redone in a incognito window and performance score increased.
+ - The results were also skewed as the chrome extensions on my testing device was affecting the lighthouse results. The tests of all pages were redone in a incognito window and performance score increased.
+
  ![Hompage](assets/images/readme-images/light-house-home.png)
- [Service Page](assets/images/readme-images/light-house-service.png)
- [Contact Us](assets/images/readme-images/light-house-contact.png)
+ - [Service Page lighthouse results](assets/images/readme-images/light-house-service.png)
+ - [Contact Us lighthoust results](assets/images/readme-images/light-house-contact.png)
 
 ## Manual Testing
   - All the site links were manually tested to see if they all worked ok and linked to the correct locations.
