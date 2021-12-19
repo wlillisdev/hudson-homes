@@ -43,7 +43,7 @@ The website has been designed to operate in a number of screen and devices.
   - It will allow a visitor to quickly and easily get around the site as each link logically leads to the next.
   - The nav elements also change colour when hovered over and also has an active line under each link when clicked which adds to the user experience.  
 
-![Navigation Bar](assets/images/header.jpg)
+ ![Navigation Bar](assets/images/header.jpg)
 
 - __Landing Page__
 
@@ -51,7 +51,7 @@ The website has been designed to operate in a number of screen and devices.
   - The text box further instils this with the words you Dream it we design and build it. The customer know instantly what Hudson Homes can do for them.
   - It also has a call to action with a button encouraging customers to get a free quote.
 
-![Landing](assets/images/readme-images/landing-page.png)
+ ![Landing](assets/images/readme-images/landing-page.png)
 
 
 - __What We Do Section__
@@ -60,14 +60,14 @@ The website has been designed to operate in a number of screen and devices.
   - It has a simple design with minimal text about each service, but enough text to allow the user evaluate each service. Each service also has a button to encourage the user to read more about the service. When the button is clicked the user is brought directly to that section on the services page.
   - Each service has a nice icon that helps the user identify the specific service.
 
-![What we do Section](assets/images/readme-images/what-we-do-section.png)
+ ![What we do Section](assets/images/readme-images/what-we-do-section.png)
 
 - __About Us Section__
 
   - This is a quick and brief description about Hudson Homes. To allow the user to find out some background information about the company.
   - It outlines the  main qualities of why Hudson Homes would be an excellent partner for a new user looking to build a new home.
 
-![About Us](assets/images/readme-images/about-us-section.png)
+ ![About Us](assets/images/readme-images/about-us-section.png)
 
 - __Our Crediantials Section__
 
@@ -75,7 +75,7 @@ The website has been designed to operate in a number of screen and devices.
   - This section outlines the industry recognised organisation that Hudson Homes are registered members of.
   - To a new user visiting the site and having little knowledge of the company this is a big thumbs up to show them that Hudson Homes is a reputable builder.
 
-![Our Crediantials](assets/images/readme-images/crediantials-section.png)
+ ![Our Crediantials](assets/images/readme-images/crediantials-section.png)
 
 - __Footer__
 
@@ -83,7 +83,7 @@ The website has been designed to operate in a number of screen and devices.
   - It contains 3 social media platforms as requested by Hudson Homes they will also open in a new window to allow easy navigation for the user.
   - The main aim of the footer is to increase engagement with visitors and get them to view new projects that are currently been built and showcase previous projects.With the goal of building confidence with new customers & getting them to subscribe to the various social channels. This is done with a simple text in the footer, Follow Our Recent Projects On. 
 
-![Footer Bar](assets/images/readme-images/footer.png)
+ ![Footer Bar](assets/images/readme-images/footer.png)
 
 - __Hoover__
 
@@ -99,7 +99,7 @@ The website has been designed to operate in a number of screen and devices.
   - At the end of the text the customer has a button called read more, this button will encourage the user to make a furter action.On clicking this button it will lead the user to the contact us page & the contact us form. To continue the logiacal flow through th website.
   
 
-![Services Section](assets/images/readme-images/design-build-service.png)
+ ![Services Section](assets/images/readme-images/design-build-service.png)
 
  [View Services Featuers](https://wlillisdev.github.io/hudson-homes/services.html)
 
@@ -111,7 +111,7 @@ The website has been designed to operate in a number of screen and devices.
   - The aim of the page is to convert a potential user into a lead. It has a simple but elegant contact us form layout. That captures enough information so Hudson Homes can follow up on the lead. And allows a user’s to quickly fill out the form with minimal information.
   - It also has the aspirational theme of Build your dream incorporated into it. The header image has an elegant country home, the background image is a set of keys in a new door and the form has a call to action of "start your dream home today".
  
-![Contact Us Form](assets/images/readme-images/contact-us.png)
+ ![Contact Us Form](assets/images/readme-images/contact-us.png)
 
 # Design
  - Theme
@@ -121,7 +121,7 @@ The website has been designed to operate in a number of screen and devices.
  - Color Palette
    - The color palette is made up of three main colors which creates a good contrast and helps support the overall theme by creating a sleek lean and modern website.
 
-![Color Palette](assets/images/readme-images/small-Color-pallet-website.png)
+ ![Color Palette](assets/images/readme-images/colors-hudson homes.png)
 
 - Imagery
    - The images that were selected for the website were eyecathing, elegant, modern design and expertly built houses. They look like show houses and help support the theme of a user owning and designing their own dream home.
@@ -197,12 +197,12 @@ The website has been designed to operate in a number of screen and devices.
 
 
 ## Manual Testing
-    - All the site links were manually tested to see if they all worked ok and linked to the correct locations.
-    - The form was checked that name and email were required, that the radio buttons functioned and that the submit button worked.
-    - The site was further tested using feedback from mentor,family and friends who checked it on diffrent devices they had.
-    - The site was carefully tested across a variety of devices to ensure that all links and styling function properly, as well as responsiveness. All of the page's features were tested on Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, and Opera .
-    - Google Chrome's Developer Tool was used to inspect page elements during the build and helped indentify and debug issues within the HTML and CSS.
-    - The README.md was checked before final submission and links verfied.
+  - All the site links were manually tested to see if they all worked ok and linked to the correct locations.
+  - The form was checked that name and email were required, that the radio buttons functioned and that the submit button worked.
+  - The site was further tested using feedback from mentor,family and friends who checked it on diffrent devices they had.
+  - The site was carefully tested across a variety of devices to ensure that all links and styling function properly, as well as responsiveness. All of the page's features were tested on Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, and Opera .
+  - Google Chrome's Developer Tool was used to inspect page elements during the build and helped indentify and debug issues within the HTML and CSS.
+  - The README.md was checked before final submission and links verfied.
 
 
 
@@ -212,6 +212,9 @@ The website has been designed to operate in a number of screen and devices.
   - After Running the all pages through lighthouse, it identified issues with a number of images due to size. Lighthouse suggested to change some larger images from jpg to avif which was done
   - The what we do section on the home page i was having trouble in getting it to be responsvie, i decieded to implement css grid which worked out well and fixed the problem
   - On low quailty smart phones with with pixle width less than 300px the hompe page hero text banner did not work properly, so i decided to add a media query and remove it  as i felt it was affecting user experience.
+
+  # Unfixed Bugs
+  - Aparting from removeing the hero banner text from the hompage for smart phones with screen sizes below 300px i am unaware of any other bugs at this time.
 
 
 
@@ -280,11 +283,11 @@ The site was created using Visual Studio Code and GitHub, and deployed to GitHub
 
 
    # Conclusion
-    - I would put more emphasis on a mobile first design when it came to buildin out the site.
-    - If I was to build this site again, I would spend more time on the wireframes and know exactly how to structure each section and element
+    - I would put more emphasis on a mobile first design when it came to building out the site.
+    - If I was to build this site again, I would spend more time on the wireframes and know exactly how to structure each section and element before i start.
     - Due to time constraints, I did not have time to experiment a lot with flex or CSS grid, I think I could have got a better services page layout with CSS grid.
     - I would also learn to make more commits during the project built.
--
+
 
 
    
