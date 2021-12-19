@@ -31,6 +31,11 @@ The website has been designed to operate in a number of screen and devices.
 
  [View Homepage Featuers](https://wlillisdev.github.io/hudson-homes/index.html)
 
+- __Favicon__
+ - As the website is based around house building i got a house icon image from [Flaticon] (https://www.flaticon.com/free-icons/house)
+ - This will help to furthetr enforce the brand image of a house building company tot he user.
+ [favicon](assets/images/readme-images/favicon.png)
+
 - __Navigation Bar__
  
   - The Navigation bar is located at the top of all three Pages. It is simple but clean design. It includes the logo, Home page, Service and Contact Us page.
@@ -200,6 +205,7 @@ The website has been designed to operate in a number of screen and devices.
   - After running the site through HTML checker, a number of small bugs were identified. Each error was identified and an appropriate solution applied, i went through all pages and fixed any errors. It was good lesson and practice in finding problems with code and fixing them.
   - After Running the all pages through lighthouse, it identified issues with a number of images due to size. Lighthouse suggested to change some larger images from jpg to avif which was done
   - The what we do section on the home page i was having trouble in getting it to be responsvie, i decieded to implement css grid which worked out well and fixed the problem
+  - On low quailty smart phones with with pixle width less than 300px the hompe page hero text banner did not work properly, so i decided to add a media query and remove it  as i felt it was affecting user experience.
 
 
 
