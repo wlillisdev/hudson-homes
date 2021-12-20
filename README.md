@@ -33,7 +33,7 @@ The site will be targeted toward first time home owners & Family’s looking to 
   - As a returning visitor, I would like to find links to their social media channels and follow them.
 
 # Responsive 
-The website has been designed to operate in a number of screen and devices.
+The website has been designed to operate on a number of screen and devices.
 
 ![Am I Responsive Test](assets/images/readme-images/responsive-1.png)
 
@@ -44,7 +44,7 @@ The website has been designed to operate in a number of screen and devices.
 
 __Favicon__
  - As the website is based around house building i got a house icon image from [Flaticon](https://www.flaticon.com/free-icons/house)
- - This will help to furthetr enforce the brand image of a house building company to the user.
+ - This will help to further enforce the brand image of a house building company to the user.
  
  ![favicon](assets/images/readme-images/favicon.png)
 
@@ -58,8 +58,8 @@ __Navigation Bar__
 
 __Landing Page__
 
-  - The landing page contains an eye-catching background image of a beautiful modern built house by Hudson Homes. It immediately catches the eye and infers the aspiration of what a customer’s dream house could be if it was built by Hudson Homes.
-  - The text box further instils this with the words you Dream it we design and build it. The customer know instantly what Hudson Homes can do for them.
+  - The landing page contains an eye-catching background image of a beautiful modern built house constructed by Hudson Homes. It immediately catches the eye and infers the aspiration of what a customer’s dream house could look like if it was built by Hudson Homes.
+  - The text box further instils this with the words - you Dream it we design and build it. The customer knows instantly what Hudson Homes can do for them.
   - It also has a call to action with a button encouraging customers to get a free quote.
 
  ![Landing](assets/images/readme-images/landing-page.png)
@@ -83,14 +83,14 @@ __About Us Section__
 __Our Crediantials Section__
 
   - This is the next step on the user's journey as they scroll down the homepage, The about us section highlights why you should choose Hudson Homes as a partner but this section reinforces this point with industry credentials.
-  - This section outlines the industry recognised organisation that Hudson Homes are registered members of.
+  - This section outlines the industry recognised organisations that Hudson Homes are registered members of.
   - To a new user visiting the site and having little knowledge of the company this is a big thumbs up to show them that Hudson Homes is a reputable builder.
 
  ![Our Crediantials](assets/images/crediantials.png)
 
 
 __Recent Project__
-  - A short video was added to show case a recent project. It will show the users a finished house build by Hudson Homes. And the high quality and perfect finish that they can expect in their project.
+  - A short video was added to show case a recent project. It will show the users a finished house build by Hudson Homes. And the high quality and perfect finish that they can expect on their project.
   - It is placed just above the footer, where it prompts the user to follow one of the socail channels to view more projects.
   ![Video](assets/images/readme-images/recent-project-video.png)
 
@@ -113,9 +113,9 @@ __Services Page__
 
   -  This page clearly lays out in more detail what construction services Hudson Homes offers. It is the next step on the users journery. 
   - Each specific service incorporated an eye catching background pictuer that is directly related to the service.
-  - The same icons and similar text box style already used on the homepage is used on each service image to continue the design and flow of teh site and aid in the user experience.
+  - The same icons and similar text box style already used on the homepage is used on each service image to continue the design and flow of the site and aid in the user experience.
   - Each service has a detailed despcription of each service and what exactly Hudson Homes can offer a potential customer.
-  - At the end of the text the customer has a button called read more, this button will encourage the user to make a furter action.On clicking this button it will lead the user to the contact us page & the contact us form. To continue the logiacal flow through th website.
+  - At the end of the text thier is a button read more, this button will encourage the user to make a furter action.On clicking this button it will lead the user to the contact us page & the contact us form. To continue the logiacal flow through the website.
   
 
  ![Services Section](assets/images/readme-images/design-build-service.png)
@@ -128,7 +128,7 @@ __Contact Us Page__
  [View Contact Us Featuers](https://wlillisdev.github.io/hudson-homes/contact-us.html)
 
   - The aim of the page is to convert a potential user into a lead. It has a simple but elegant contact us form layout. That captures enough information so Hudson Homes can follow up on the lead. And allows a user’s to quickly fill out the form with minimal information.
-  - It also has the aspirational theme of Build your dream incorporated into it. The header image has an elegant country home, the background image is a set of keys in a new door and the form has a call to action of "start your dream home today".
+  - It also has the aspirational theme of Build your dream incorporated into it. The header image has an elegant country home, the background image is a set of keys in a new door and the form has a call to action of "start your dream home today". 
  
  ![Contact Us Form](assets/images/readme-images/contact-us.png)
 
@@ -143,7 +143,7 @@ __Contact Us Page__
  ![Color Palette](assets/images/colors-hudson.png)
 
 - Imagery
-   - The images that were selected for the website were eyecathing, elegant, modern design and expertly built houses. They look like show houses and help support the theme of a user owning and designing their own dream home.
+   - The images that were selected for the website were eyecathing, elegant, OF modern designed and expertly built houses. They look like show houses and help support the theme of a user owning and designing their own dream home.
 
 - Wireframes
    - To create the initial layout and wireframe i used Balsamiq. This helped fine tune the design and layout. It also helped in calculating the amount of content and images required.
