@@ -559,7 +559,7 @@ h2 {
     padding-top: 10px;
 }
 
-/* media query rservices section remove grid template 875px */
+/* media query what we do section remove grid template 800px */
 @media only screen and (min-width: 800px) {
     .wrapper {
         grid-template: none;
@@ -567,7 +567,7 @@ h2 {
     
 }
 
-
+/* media query what we do section add grid template 1150px */
 @media only screen and (min-width: 1150px) {
 
     .wrapper {
@@ -577,4 +577,14 @@ h2 {
     
     }
 
+ /* media query what we do section add grid template 800px */
+@media only screen and (min-width: 1000px){}
+   
+
+.img-wrapper {
+
+          
+        
+    }
     
+    }
