@@ -6,7 +6,7 @@
 
 This website is designed for Hudson Homes who is a national construction company. They have been in business for over 30 years. Although they specialise in all aspects of construction, they wanted a new website to focus primarily on the house building market and all aspects of it.
 
-# User Experience (UX)
+# Aim of Website
 
 The goal of the website is to show case Hodson Homes reputation of excellence, craftmanship and experience in the house building market.
 It will target a wider range of clients as previously they only focused on high end bespoke house builds. 
@@ -86,7 +86,7 @@ __Our Crediantials Section__
   - This section outlines the industry recognised organisation that Hudson Homes are registered members of.
   - To a new user visiting the site and having little knowledge of the company this is a big thumbs up to show them that Hudson Homes is a reputable builder.
 
- ![Our Crediantials](assets/images/readme-images/crediantials-section.png)
+ ![Our Crediantials](assets/images/crediantials.png)
 
 
 __Recent Project__
@@ -210,7 +210,7 @@ __Contact Us Page__
   - All the site links were manually tested to see if they all worked ok and linked to the correct locations.
   - The form was checked that name and email were required, that the radio buttons functioned and that the submit button worked.
   - The site was further tested using feedback from mentor,family and friends who checked it on diffrent devices they had.
-  - The site was carefully tested across a variety of devices to ensure that all links and styling function properly, as well as responsiveness. All of the page's features were tested on Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, and Opera .
+  - All of the page's features were tested on Google Chrome, Microsoft Edge, Mozilla Firefox, Safari, and Opera .
   - Google Chrome's Developer Tool was used to inspect page elements during the build and helped indentify and debug issues within the HTML and CSS.
   - The README.md was checked before final submission and links verfied.
 
@@ -219,7 +219,7 @@ __Contact Us Page__
 # Bugs
 
   - After running the site through HTML checker, a number of small bugs were identified. Each error was identified and an appropriate solution applied, i went through all pages and fixed any errors. It was good lesson and practice in finding problems with code and fixing them.
-  - After Running the all pages through lighthouse, it identified issues with a number of images due to size. Lighthouse suggested to change some larger images from jpg to avif which was done
+  - After Running all the pages through lighthouse, it identified issues with a number of images due to size. Lighthouse suggested to change some larger images which was done.
   - The what we do section on the home page i was having trouble in getting it to be responsvie, i decieded to implement css grid which worked out well and fixed the problem
   - On low quailty smart phones with with pixle width less than 300px the hompe page hero text banner did not work properly, so i decided to add a media query and remove it  as i felt it was affecting user experience.
 

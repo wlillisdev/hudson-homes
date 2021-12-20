@@ -23,7 +23,6 @@ h2 {
     font-family: 'source sans pro', sans-serif;
     text-transform: uppercase;
     color: #000033;
-
 }
 
 #site-header {
@@ -102,9 +101,10 @@ h2 {
 @media only screen and (max-width: 335px) {
     .hero-text {
         display: none;
+
     }
 
-    /* media query make logo and nav list smaller in small screens lesss */
+
     #menu {
         font-size: 5vw;
         margin: 0 2px;
@@ -114,7 +114,6 @@ h2 {
         font-size: 9vw;
         margin: 0 5px;
     }
-
 }
 
 /* Hero Image */
@@ -204,7 +203,7 @@ h2 {
 
 .box-text {
     text-align: center;
-    font-size: 1rem;
+    font-size: 1.2rem;
     margin: 10px;
     line-height: 30px;
 
@@ -245,7 +244,7 @@ h2 {
 .text-about {
 
     text-align: center;
-    font-size: 1rem;
+    font-size: 1.2rem;
     line-height: 30px;
     padding: 10px;
     border-bottom: groove;
@@ -278,10 +277,10 @@ h2 {
 
 .img-cred {
 
-    margin: 10px;
-    height: 15.5rem;
-    width: 15.5rem;
-    
+    margin: 15px;
+    height: 12rem;
+    width: 12rem;
+
 }
 
 /* Footer */
@@ -544,8 +543,6 @@ h2 {
     flex-direction: row;
     justify-content: space-around;
     min-width: 100%;
-
-
 }
 
 .video {
@@ -553,12 +550,11 @@ h2 {
     width: 100vw;
     height: 43vw;
     object-fit: cover;
-
 }
 
 .video-heading {
     border-top: groove;
     text-align: center;
     padding-bottom: 15px;
-    padding-top:10px;
+    padding-top: 10px;
 }
