@@ -558,3 +558,23 @@ h2 {
     padding-bottom: 15px;
     padding-top: 10px;
 }
+
+/* media query rservices section remove grid template 875px */
+@media only screen and (min-width: 800px) {
+    .wrapper {
+        grid-template: none;
+    }
+    
+}
+
+
+@media only screen and (min-width: 1150px) {
+
+    .wrapper {
+
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    }
+    
+    }
+
+    
