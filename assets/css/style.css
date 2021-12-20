@@ -271,15 +271,15 @@ h2 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    padding: 5px;
+    padding: 10px;
     padding-bottom: 20px;
 }
 
 .img-cred {
 
     margin: 15px;
-    height: 12rem;
-    width: 12rem;
+    height: 13rem;
+    width: 13rem;
 
 }
 
@@ -464,7 +464,7 @@ h2 {
 }
 
 .contact-details {
-    font-size: 1rem;
+    font-size: 1.2rem;
     padding: 2px;
 
 }
