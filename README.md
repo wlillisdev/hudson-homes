@@ -132,6 +132,9 @@ __Contact Us Page__
  
  ![Contact Us Form](assets/images/readme-images/contact-us.png)
 
+  - When the user successfully submits the contact us form, they will be brought to a thank you page. Which will also encourage the user to check out our social channels.
+  ![Contact Us Form](assets/images/readme-images/thank-you-page.png)
+
 # Design
  - Theme
    - The Theme of the website is build your dream home.As a first time buyer or an existing home owner your aspiration is to build and live in a dream home you created. 
