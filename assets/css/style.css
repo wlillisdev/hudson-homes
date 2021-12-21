@@ -533,11 +533,10 @@ h2 {
     padding-bottom: 15px;
     padding-top: 10px;
 }
-
 /* Thank You Page when completed form*/
 
 
-#thank-you {
+#thank-you{
 
     height: 500px;
     background-image: url(../images/keys-contact-back.jpg);
@@ -549,7 +548,7 @@ h2 {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
+    
 }
 
 .thank-you-wrapper {
