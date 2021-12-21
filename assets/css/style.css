@@ -90,31 +90,6 @@ h2 {
 
 }
 
-/* media query diaply screen in row at 600px */
-@media only screen and (min-width: 600px) {
-    #site-header {
-        flex-direction: row;
-    }
-}
-
-/* media query remove hero banner hompage in small smart phone less than 335px */
-@media only screen and (max-width: 335px) {
-    .hero-text {
-        display: none;
-
-    }
-
-
-    #menu {
-        font-size: 5vw;
-        margin: 0 2px;
-    }
-
-    #logo {
-        font-size: 9vw;
-        margin: 0 5px;
-    }
-}
 
 /* Hero Image */
 
@@ -269,7 +244,7 @@ h2 {
 
     line-height: .25;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     justify-content: space-evenly;
     padding: 10px;
     padding-bottom: 20px;
@@ -278,8 +253,8 @@ h2 {
 .img-cred {
 
     margin: 15px;
-    height: 13rem;
-    width: 13rem;
+    height: 80%;
+    width: 80%;
 
 }
 
@@ -559,12 +534,14 @@ h2 {
     padding-top: 10px;
 }
 
+/* media query Section */
+
 /* media query what we do section remove grid template 800px */
 @media only screen and (min-width: 800px) {
     .wrapper {
         grid-template: none;
     }
-    
+
 }
 
 /* media query what we do section add grid template 1150px */
@@ -574,17 +551,43 @@ h2 {
 
         grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     }
-    
+
+}
+
+/* media query Crediantials section @ 700px apply flex wrap */
+@media only screen and (max-width: 700px) {
+
+
+    .img-wrapper {
+
+        flex-wrap: wrap;
     }
 
- /* media query what we do section add grid template 800px */
-@media only screen and (min-width: 1000px){}
-   
+}
 
-.img-wrapper {
 
-          
-        
+/* media query header disply screen in row at 600px */
+@media only screen and (min-width: 600px) {
+    #site-header {
+        flex-direction: row;
     }
-    
+}
+
+/* media query remove hero banner hompage in small smart phone less than 335px */
+@media only screen and (max-width: 335px) {
+    .hero-text {
+        display: none;
+
     }
+
+
+    #menu {
+        font-size: 5vw;
+        margin: 0 2px;
+    }
+
+    #logo {
+        font-size: 9vw;
+        margin: 0 5px;
+    }
+}
