@@ -533,6 +533,40 @@ h2 {
     padding-bottom: 15px;
     padding-top: 10px;
 }
+/* Thank You Page when completed form*/
+
+
+#thank-you{
+
+    height: 500px;
+    background-image: url(../images/keys-contact-back.jpg);
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.thank-you-wrapper {
+
+    display: flex;
+    flex-direction: column;
+    background-color: #CCCCCC;
+    text-align: center;
+    color: black;
+    font-size: 1.2rem;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    border: groove;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 2rem;
+}
 
 /* media query Section */
 
@@ -555,7 +589,7 @@ h2 {
 }
 
 /* media query Crediantials section @ 750px apply flex wrap */
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 760px) {
 
 
     .img-wrapper {
