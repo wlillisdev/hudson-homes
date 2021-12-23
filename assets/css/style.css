@@ -255,6 +255,7 @@ h2 {
     border-style: groove;
     border-radius: 10px;
     position: absolute;
+    cursor:context-menu;
 }
 
 /* Text Content styling services section */
@@ -356,6 +357,7 @@ h2 {
     border-style: groove;
     border-radius: 10px;
     position: absolute;
+    cursor:context-menu;
 }
 .contact-details {
     font-size: 1.2rem;
@@ -371,10 +373,13 @@ h2 {
     background-position: center;
     height: 900px;
 }
+.contact-header{
+    color: white;
+}
 .contact-us {
     margin: 150px 10% 0 0;
-    color: black;
-    background-color: #CCCCCC;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
     border-radius: 20px;
     border: groove;
     max-width: 400px;
@@ -388,11 +393,11 @@ h2 {
 }
 .text-input {
     background: transparent;
-    color: black;
+    color: white;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
-    border: 1px solid black;
+    border: 1px solid white;
     border-radius: 5px;
 }
 .text-input:hover {
@@ -405,8 +410,8 @@ h2 {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: rgb(0, 0, 51);
-    color: #fafafa;
+    background-color: whitesmoke);
+    color: black;
     display: block;
     cursor: pointer;
 }
