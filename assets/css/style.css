@@ -90,7 +90,6 @@ h2 {
 
 }
 
-
 /* Hero Image */
 
 .hero {
@@ -166,7 +165,6 @@ h2 {
     padding-top: 15px;
     padding-bottom: 0;
 }
-
 
 .wrapper {
 
@@ -405,7 +403,6 @@ h2 {
 
 }
 
-
 /* Contact Us Page */
 
 /* contact us hero image */
@@ -443,7 +440,6 @@ h2 {
     padding: 2px;
 
 }
-
 
 /* contact us form*/
 
@@ -533,7 +529,7 @@ h2 {
     padding-bottom: 15px;
     padding-top: 10px;
 }
-/* Thank You Page when completed form*/
+/* Thank You Page when form completed */
 
 
 #thank-you{
@@ -625,3 +621,5 @@ h2 {
         margin: 0 5px;
     }
 }
+
+  
