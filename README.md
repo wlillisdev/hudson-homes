@@ -122,7 +122,7 @@ __Services Page__
   - At the end of the text thier is a button read more, this button will encourage the user to make a furter action.On clicking this button it will lead the user to the contact us page & the contact us form. To continue the logiacal flow through the website.
   
 
- ![Services Section](assets/images/readme-images/design-build-service.png)
+ ![Services Section](assets/images/readme-images/services-page-new.png)
 
   [View Services Featuers](https://wlillisdev.github.io/hudson-homes/services.html)
 
@@ -134,10 +134,11 @@ __Contact Us Page__
   - The aim of the page is to convert a potential user into a lead. It has a simple but elegant contact us form layout. That captures enough information so Hudson Homes can follow up on the lead. And allows a user’s to quickly fill out the form with minimal information.
   - It also has the aspirational theme of Build your dream incorporated into it. The header image has an elegant country home, the background image is a set of keys in a new door and the form has a call to action of "start your dream home today". 
  
- ![Contact Us Form](assets/images/readme-images/contact-us.png)
+ ![Contact Us Form](assets/images/readme-images/contact-us-new.png)
 
+__Thank You Page__
   - When the user successfully submits the contact us form, they will be brought to a thank you page. Which will also encourage the user to check out our social channels.
-  ![Contact Us Form](assets/images/readme-images/thank-you-page.png)
+  ![Thank You Page](assets/images/readme-images/thank-you-new.png)
 
 # Design
  - Theme
