@@ -1,16 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Source+Sans+Pro&display=swap');
 
+/* General */
+
 * {
     margin: 0;
     padding: 0;
     border: none;
-
 }
-
 a {
     text-decoration: none;
 }
-
 body {
     font-family: 'open sans', sans-serif;
     font-weight: 250;
@@ -18,6 +17,7 @@ body {
 }
 
 /* Headings & Logo */
+
 h1,
 h2 {
     font-family: 'source sans pro', sans-serif;
@@ -37,42 +37,26 @@ h2 {
 /* menus nav stylying */
 
 #menu {
-
     font-size: 110%;
     letter-spacing: 1px;
 }
-
 #menu li {
-
     margin-right: 8px;
     font-weight: bold;
-
 }
-
 #menu a {
     text-decoration: none;
     color: inherit;
-
 }
-
-
 #logo a {
-
     text-decoration: none;
-
 }
-
 #menu a:hover {
-
     color: skyblue;
 }
-
 .active {
-
     border-bottom: 1px dotted grey;
-
 }
-
 #site-header {
     display: flex;
     flex-direction: column;
@@ -80,20 +64,16 @@ h2 {
     align-items: center;
     padding: 15px 5px;
     text-align: center;
-
 }
-
 #menu li {
     display: inline-flex;
     margin: 0 10px;
     list-style-type: none;
-
 }
 
 /* Hero Image */
 
 .hero {
-
     height: 500px;
     background-image: url(../images/home-page-hero-crop.png);
     width: 100%;
@@ -105,7 +85,6 @@ h2 {
     background-size: cover;
     background-repeat: no-repeat;
 }
-
 .hero-text {
     color: white;
     text-transform: capitalize;
@@ -117,43 +96,31 @@ h2 {
     border-radius: 10px;
     font-size: 1rem;
     min-width: 50vw;
-
 }
-
 .hero-title {
-
     color: white;
     letter-spacing: .15rem;
 }
-
 .hero-subtitle {
-
     letter-spacing: .12rem;
     font-weight: bold;
-
 }
-
 .hero-contact {
     letter-spacing: .11rem;
     text-transform: uppercase;
 }
-
 .hero-button {
-
     font-size: 1rem;
     padding: 3px;
     border-radius: 5px;
     text-transform: uppercase;
     padding: .3rem 2.5rem;
     border: groove;
-
 }
-
 .hero-button:active {
     transform: translate(4px);
     box-shadow: 0 5px rgb(182, 182, 182);
 }
-
 .hero-button:hover {
     background-color: rgb(182, 182, 182);
 }
@@ -165,25 +132,19 @@ h2 {
     padding-top: 15px;
     padding-bottom: 0;
 }
-
 .wrapper {
-
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     grid-gap: 30px;
     padding: 20px;
 }
-
 .box-text {
     text-align: center;
     font-size: 1.2rem;
     margin: 10px;
     line-height: 30px;
-
 }
-
 .services-button {
-
     margin-top: 5px;
     font-size: .9rem;
     padding: 3px;
@@ -191,31 +152,23 @@ h2 {
     text-transform: uppercase;
     padding: .3rem 2.3rem;
     border: groove;
-
 }
-
 .services-button:active {
-
     transform: translate(4px);
     box-shadow: 0 5px;
 }
-
 .services-button:hover {
     background-color: rgb(182, 182, 182);
 }
 
-
 /* About Us Home Page Section */
 
 .services-heading {
-
     text-align: center;
     border-top: groove;
     padding-bottom: 5px;
 }
-
 .text-about {
-
     text-align: center;
     font-size: 1.2rem;
     line-height: 30px;
@@ -223,23 +176,17 @@ h2 {
     border-bottom: groove;
     padding-bottom: 20px;
 }
-
 .fa-check-circle {
     color: green;
 }
 
-
 /* Our Crediantial Homepage Section */
 
 .cred-heading {
-
     text-align: center;
     padding-top: 20px;
-
 }
-
 .img-wrapper {
-
     line-height: .25;
     display: flex;
     flex-wrap: nowrap;
@@ -247,13 +194,10 @@ h2 {
     padding: 10px;
     padding-bottom: 20px;
 }
-
 .img-cred {
-
     margin: 15px;
     height: 80%;
     width: 80%;
-
 }
 
 /* Footer */
@@ -261,7 +205,6 @@ h2 {
 #footer {
     background-color: #000033;
 }
-
 .footer-wrapper {
     display: flex;
     flex-wrap: wrap;
@@ -269,31 +212,25 @@ h2 {
     padding: 5px;
     padding-bottom: 10px;
 }
-
 .footer-text {
     text-align: center;
     color: white;
     padding-top: 5px;
 }
-
 .fa-facebook-square {
     color: white;
 }
-
 .fa-instagram-square {
     color: white;
 }
-
 .fa-youtube {
     color: white;
 }
 
 /* services page */
-
 /* Design and Build Service Hero Image*/
 
 .design-build-hero {
-
     height: 150px;
     background-image: url(../images/design-and-build\ .jpg);
     width: 100%;
@@ -310,7 +247,6 @@ h2 {
 /* Hero Text Box services */
 
 .services-hero-text {
-
     color: white;
     font-size: 1.5rem;
     background-color: rgba(0, 0, 0, 0.7);
@@ -323,7 +259,6 @@ h2 {
 /* Text Content styling services section */
 
 .services-content {
-
     display: flex;
     flex-direction: column;
     background-color: #CCCCCC;
@@ -338,21 +273,17 @@ h2 {
     padding-bottom: 10px;
     line-height: 1.5rem;
 }
-
 .services-button {
-
     font-size: 1rem;
     padding: 3px;
     border-radius: 5px;
     text-transform: uppercase;
     padding: .3rem 2.5rem;
-
 }
 
 /* new build service section hero image */
 
 .new-build-hero {
-
     height: 150px;
     background-image: url(../images/new-builds.jpg);
     width: 100%;
@@ -364,12 +295,11 @@ h2 {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
 }
 
 /*renovation service section hero image */
-.rennovation-hero {
 
+.rennovation-hero {
     height: 150px;
     background-image: url(../images/rennovation.jpg);
     width: 100%;
@@ -381,14 +311,11 @@ h2 {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
 }
 
 /* extensions service section hero image */
 
-
 .extensions-hero {
-
     height: 150px;
     background-image: url(../images/extensions\ .jpg);
     width: 100%;
@@ -400,15 +327,12 @@ h2 {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
 }
 
 /* Contact Us Page */
-
 /* contact us hero image */
 
 .contact-hero {
-
     height: 150px;
     background-image: url(../images/contact-us-crop.jpg);
     width: 100%;
@@ -420,11 +344,8 @@ h2 {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
 }
-
 .contact-hero-text {
-
     color: white;
     font-size: 1.5rem;
     background-color: rgba(0, 0, 0, 0.7);
@@ -432,13 +353,10 @@ h2 {
     border-style: groove;
     border-radius: 10px;
     position: absolute;
-
 }
-
 .contact-details {
     font-size: 1.2rem;
     padding: 2px;
-
 }
 
 /* contact us form*/
@@ -450,8 +368,6 @@ h2 {
     background-position: center;
     height: 900px;
 }
-
-
 .contact-us {
     margin: 150px 10% 0 0;
     color: black;
@@ -463,12 +379,10 @@ h2 {
     left: 10%;
     padding: 30px;
 }
-
 .signup-form>h2 {
     color: #CCCCCC;
     margin-bottom: 20px;
 }
-
 .text-input {
     background: transparent;
     color: black;
@@ -478,11 +392,9 @@ h2 {
     border: 1px solid black;
     border-radius: 5px;
 }
-
 .text-input:hover {
     border-color: rgb(0, 0, 51);
 }
-
 .join-button {
     margin-top: 20px;
     border-radius: 8px;
@@ -494,46 +406,38 @@ h2 {
     color: #fafafa;
     display: block;
 }
-
 .join-button:hover {
     background-color: whitesmoke;
     color: black;
 }
 
-
 /* Video Homepage*/
+
 .join-button:active {
     transform: translate(4px);
     box-shadow: 0 5px rgb(182, 182, 182);
 }
-
-
 .container-video {
-
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     min-width: 100%;
 }
-
 .video {
-
     width: 100vw;
     height: 43vw;
     object-fit: cover;
 }
-
 .video-heading {
     border-top: groove;
     text-align: center;
     padding-bottom: 15px;
     padding-top: 10px;
 }
+
 /* Thank You Page when form completed */
 
-
-#thank-you{
-
+#thank-you {
     height: 500px;
     background-image: url(../images/keys-contact-back.jpg);
     width: 100%;
@@ -544,11 +448,8 @@ h2 {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    
 }
-
 .thank-you-wrapper {
-
     display: flex;
     flex-direction: column;
     background-color: #CCCCCC;
@@ -565,38 +466,33 @@ h2 {
 }
 
 /* media query Section */
-
 /* media query what we do section remove grid template 800px */
+
 @media only screen and (min-width: 800px) {
     .wrapper {
         grid-template: none;
     }
-
 }
 
 /* media query what we do section add grid template 1150px */
+
 @media only screen and (min-width: 1150px) {
-
     .wrapper {
-
         grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     }
-
 }
 
 /* media query Crediantials section @ 750px apply flex wrap */
+
 @media only screen and (max-width: 700px) {
-
-
     .img-wrapper {
 
         flex-wrap: wrap;
     }
-
 }
 
-
 /* media query header disply screen in row at 600px */
+
 @media only screen and (min-width: 600px) {
     #site-header {
         flex-direction: row;
@@ -604,22 +500,17 @@ h2 {
 }
 
 /* media query remove hero banner hompage in small smart phone less than 335px */
+
 @media only screen and (max-width: 335px) {
     .hero-text {
         display: none;
-
     }
-
-
     #menu {
         font-size: 5vw;
         margin: 0 2px;
     }
-
     #logo {
         font-size: 9vw;
         margin: 0 5px;
     }
 }
-
-  
