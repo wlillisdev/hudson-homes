@@ -93,7 +93,7 @@ __Our Crediantials Section__
  ![Our Crediantials](assets/images/crediantials.png)
 
 
-__Recent Project__
+__Recent Projects__
   - A short video was added to show case a recent project. It will show the users a finished house build by Hudson Homes. And the high quality and perfect finish that they can expect on their project.
   - It is placed just above the footer, where it prompts the user to follow one of the socail channels to view more projects.
   ![Video](assets/images/readme-images/recent-project-video.png)
@@ -228,7 +228,7 @@ __Contact Us Page__
   - After running the site through HTML checker, a number of small bugs were identified. Each error was identified and an appropriate solution applied, i went through all pages and fixed any errors. It was good lesson and practice in finding problems with code and fixing them.
   - After Running all the pages through lighthouse, it identified issues with a number of images due to size. Lighthouse suggested to change some larger images which was done.
   - The what we do section on the home page i was having trouble in getting it to be responsvie, i decieded to implement css grid which worked out well and fixed the problem
-  - On low quailty smart phones with with pixle width less than 300px the hompe page hero text banner did not work properly, so i decided to add a media query and remove it  as i felt it was affecting user experience.
+  - On low quailty smart phones with with pixle width less than 300px the hompe page hero text banner did not look great, so i decided to add a media query and remove it  as i felt it was affecting user experience.
 
   # Unfixed Bugs
   - Apart from removeing the hero banner text from the hompage for smart phones with screen sizes below 300px i am unaware of any other bugs at this time.
