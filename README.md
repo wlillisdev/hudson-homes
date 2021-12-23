@@ -33,10 +33,14 @@ The site will be targeted toward first time home owners & Family’s looking to 
   - As a returning visitor, I would like to find links to their social media channels and follow them.
 
 # Responsive 
-The website has been designed to operate on a number of screen and devices.
+The website has been designed to operate on a number of screen and devices.The following test were acrred out on [Am I Responsive](http://ami.responsivedesign.is/)
+ - Homepage (displayed below)
 
-![Am I Responsive Test](assets/images/readme-images/responsive-1.png)
+![Am I Responsive Test Homepage](assets/images/readme-images/responsive-1.png)
 
+ - Service Page [Am I Responsive Test services Page ](assets/images/readme-images/services-page-responsvie.png)
+
+ - Contact Us Page [Am I Responsive Test contact Us Page](assets/images/readme-images/contact-page-responsive.png)
 
 # Features 
 
