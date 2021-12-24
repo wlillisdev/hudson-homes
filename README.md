@@ -229,11 +229,12 @@ __Thank You Page__
 
   - After running the site through HTML checker, a number of small bugs were identified. Each error was identified and an appropriate solution applied, i went through all pages and fixed any errors. It was good lesson and practice in finding problems with code and fixing them.
   - After Running all the pages through lighthouse, it identified issues with a number of images due to size. Lighthouse suggested to change some larger images which was done.
-  - The what we do section on the home page i was having trouble in getting it to be responsvie, i decieded to implement css grid which worked out well and fixed the problem
+  - The what we do section on the home page i was having trouble in getting it to be responsvie, i decieded to implement css grid which worked out well and fixed the problem.
   - On low quailty smart phones with with pixle width less than 300px the hompe page hero text banner did not look great, so i decided to add a media query and remove it  as i felt it was affecting user experience.
 
   # Unfixed Bugs
   - Apart from removeing the hero banner text from the hompage for smart phones with screen sizes below 300px i am unaware of any other bugs at this time.
+  - I am aware the website has a lot of rich images and although images were cropped and compressed it could lead to reduced speed until cached. I have experimented with next gen image formats but curently they lack browser compatability so i just went with png compressed and cropped format for this site.
 
 
 
@@ -298,7 +299,8 @@ The site was created using Visual Studio Code and GitHub, and deployed to GitHub
    - [TinyPNG](https://tinypng.com/) - Used to compress images
 
 -  ## Acknowledgements
-   - Special thanks to my mentor [Chris Quinn](https://github.com/10xOXR) for his help and guidance in the development of my first website. Special thanks to my tutor Kasia and our regular class meeting’s and members of the awesome slack community
+ - Special thanks to my mentor [Chris Quinn](https://github.com/10xOXR) & Miguel Martinez
+ for their help and guidance in the development of my first website. Special thanks to my tutor Kasia and our regular class meeting’s and members of the awesome slack community
 
 
    # Conclusion

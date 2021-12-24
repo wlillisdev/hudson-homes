@@ -271,6 +271,7 @@ h2 {
     padding-right: 10px;
     border-radius: 15px;
     border: groove;
+    border-width: 5px;
     padding-top: 10px;
     padding-bottom: 10px;
     line-height: 1.5rem;
