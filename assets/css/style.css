@@ -1,3 +1,5 @@
+/* import Google Fonts */
+
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Source+Sans+Pro&display=swap');
 
 /* General */
@@ -201,6 +203,30 @@ h2 {
     width: 80%;
 }
 
+/* Video Homepage*/
+
+.join-button:active {
+    transform: translate(4px);
+    box-shadow: 0 5px rgb(182, 182, 182);
+}
+.container-video {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    min-width: 100%;
+}
+.video {
+    width: 100vw;
+    height: 43vw;
+    object-fit: cover;
+}
+.video-heading {
+    border-top: groove;
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
 /* Footer */
 
 #footer {
@@ -275,7 +301,6 @@ h2 {
     padding-top: 10px;
     padding-bottom: 10px;
     line-height: 1.5rem;
-    
 }
 .services-button {
     font-size: 1rem;
@@ -419,30 +444,6 @@ h2 {
 .join-button:hover {
     background-color: lightgrey;
     color: black;
-}
-
-/* Video Homepage*/
-
-.join-button:active {
-    transform: translate(4px);
-    box-shadow: 0 5px rgb(182, 182, 182);
-}
-.container-video {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    min-width: 100%;
-}
-.video {
-    width: 100vw;
-    height: 43vw;
-    object-fit: cover;
-}
-.video-heading {
-    border-top: groove;
-    text-align: center;
-    padding-bottom: 15px;
-    padding-top: 10px;
 }
 
 /* Thank You Page when form completed */

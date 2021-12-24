@@ -111,6 +111,7 @@ __Footer__
 
   - Each clickable element on the website changes color when hovered over with a mouse. This is to encourage users to click on buttons and links and increase engagement and user experience.
   - Buttons on the website when clicked on by the user look like they are been pushed.I added this to improved the UX of the website.
+  - My mentor suggested to put cursor pointer on all buttons which was also implemented.
 
 
 __Services Page__
@@ -234,7 +235,7 @@ __Thank You Page__
 
   # Unfixed Bugs
   - Apart from removeing the hero banner text from the hompage for smart phones with screen sizes below 300px i am unaware of any other bugs at this time.
-  - I am aware the website has a lot of rich images and although images were cropped and compressed it could lead to reduced speed until cached. I have experimented with next gen image formats but curently they lack browser compatability so i just went with png compressed and cropped format for this site.
+  - I am aware the website has a lot of large rich images and although images were cropped and compressed it could lead to reduced speed until cached. I have experimented with next gen image formats but curently they lack browser compatability so i just went with png compressed and cropped format for this site.
 
 
 
