@@ -41,6 +41,7 @@ The website has been designed to operate on a number of screen and devices.The f
  - Service Page [Am I Responsive Test services Page ](assets/images/readme-images/services-page-responsvie.png)
 
  - Contact Us Page [Am I Responsive Test contact Us Page](assets/images/readme-images/contact-page-responsive.png)
+ - Thank You Page [Am I Responsive Test Thank You Page](assets/images/readme-images/responsive-thank-you-page.png)
 
 # Features 
 
